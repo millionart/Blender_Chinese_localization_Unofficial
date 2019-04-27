@@ -3613,11 +3613,11 @@ msgstr "库数据块"
 
 #. :src: bpy.types.BlendData.lightprobes
 msgid "LightProbes"
-msgstr "光照探头"
+msgstr "光源探头"
 
 #. :src: bpy.types.BlendData.lightprobes
 msgid "LightProbe data-blocks"
-msgstr "光照探头数据块"
+msgstr "光源探头数据块"
 
 #. :src: bpy.types.BlendData.lights
 #. :src: bpy.types.FileSelectParams.filter_id:'LIGHT'
@@ -3626,11 +3626,11 @@ msgstr "光照探头数据块"
 #. :src: scripts/startup/bl_ui/space_dopesheet.py:127
 #. :src: scripts/startup/bl_ui/space_outliner.py:330
 msgid "Lights"
-msgstr "灯光"
+msgstr "光源"
 
 #. :src: bpy.types.BlendData.lights
 msgid "Light data-blocks"
-msgstr "灯光数据块"
+msgstr "光源数据块"
 
 #. :src: bpy.types.BlendData.linestyles
 #. :src: scripts/startup/bl_ui/space_dopesheet.py:142
@@ -3996,11 +3996,11 @@ msgstr "库集合"
 
 #. :src: bpy.types.BlendDataLights
 msgid "Main Lights"
-msgstr "主灯光"
+msgstr "主光源"
 
 #. :src: bpy.types.BlendDataLights
 msgid "Collection of lights"
-msgstr "灯光集合"
+msgstr "光源集合"
 
 #. :src: bpy.types.BlendDataLineStyles
 msgid "Main Line Styles"
@@ -4093,11 +4093,11 @@ msgstr "粒子设定集合"
 
 #. :src: bpy.types.BlendDataProbes
 msgid "Main Light Probes"
-msgstr "主光照探头"
+msgstr "主光源探头"
 
 #. :src: bpy.types.BlendDataProbes
 msgid "Collection of light probes"
-msgstr "光照探头集合"
+msgstr "光源探头集合"
 
 #. :src: bpy.types.BlendDataScenes
 msgid "Main Scenes"
@@ -5094,7 +5094,7 @@ msgstr "输入 X"
 #. :src: bpy.types.EditBone.bbone_curveinx
 #. :src: bpy.types.PoseBone.bbone_curveinx
 msgid "X-axis handle offset for start of the B-Bone's curve, adjusts curvature"
-msgstr "样条线骨骼曲线起点的 X-轴控制柄偏移, 适应曲率"
+msgstr "弯管骨骼曲线起点的 X- 轴控制柄偏移, 适应曲率"
 
 #. :src: bpy.types.Bone.bbone_curveiny
 #. :src: bpy.types.EditBone.bbone_curveiny
@@ -5107,7 +5107,7 @@ msgstr "输入 Y"
 #. :src: bpy.types.EditBone.bbone_curveiny
 #. :src: bpy.types.PoseBone.bbone_curveiny
 msgid "Y-axis handle offset for start of the B-Bone's curve, adjusts curvature"
-msgstr "样条线骨骼曲线起点的 Y-轴控制柄偏移, 适应曲率"
+msgstr "弯管骨骼曲线起点的 Y-轴控制柄偏移, 适应曲率"
 
 #. :src: bpy.types.Bone.bbone_curveoutx
 #. :src: bpy.types.EditBone.bbone_curveoutx
@@ -5119,7 +5119,7 @@ msgstr "输出 X"
 #. :src: bpy.types.EditBone.bbone_curveoutx
 #. :src: bpy.types.PoseBone.bbone_curveoutx
 msgid "X-axis handle offset for end of the B-Bone's curve, adjusts curvature"
-msgstr "样条线骨骼曲线终点的 X-轴控制柄偏移, 适应曲率"
+msgstr "弯管骨骼曲线终点的 X-轴控制柄偏移, 适应曲率"
 
 #. :src: bpy.types.Bone.bbone_curveouty
 #. :src: bpy.types.EditBone.bbone_curveouty
@@ -5132,31 +5132,31 @@ msgstr "输出 Y"
 #. :src: bpy.types.EditBone.bbone_curveouty
 #. :src: bpy.types.PoseBone.bbone_curveouty
 msgid "Y-axis handle offset for end of the B-Bone's curve, adjusts curvature"
-msgstr "样条线骨骼曲线终点的 Y-轴控制柄偏移, 适应曲率"
+msgstr "弯管骨骼曲线终点的 Y-轴控制柄偏移, 适应曲率"
 
 #. :src: bpy.types.Bone.bbone_custom_handle_end
 #. :src: bpy.types.EditBone.bbone_custom_handle_end
 #. :src: bpy.types.PoseBone.bbone_custom_handle_end
 msgid "B-Bone End Handle"
-msgstr "样条线骨骼终点控制柄"
+msgstr "弯管骨骼终点控制柄"
 
 #. :src: bpy.types.Bone.bbone_custom_handle_end
 #. :src: bpy.types.EditBone.bbone_custom_handle_end
 #. :src: bpy.types.PoseBone.bbone_custom_handle_end
 msgid "Bone that serves as the end handle for the B-Bone curve"
-msgstr "适用为样条线骨骼曲线的末点控制柄的骨骼"
+msgstr "适用为弯管骨骼曲线的末点控制柄的骨骼"
 
 #. :src: bpy.types.Bone.bbone_custom_handle_start
 #. :src: bpy.types.EditBone.bbone_custom_handle_start
 #. :src: bpy.types.PoseBone.bbone_custom_handle_start
 msgid "B-Bone Start Handle"
-msgstr "样条线骨骼起点控制柄"
+msgstr "弯管骨骼起点控制柄"
 
 #. :src: bpy.types.Bone.bbone_custom_handle_start
 #. :src: bpy.types.EditBone.bbone_custom_handle_start
 #. :src: bpy.types.PoseBone.bbone_custom_handle_start
 msgid "Bone that serves as the start handle for the B-Bone curve"
-msgstr "适用为样条线骨骼曲线的起点控制柄的骨骼"
+msgstr "适用为弯管骨骼曲线的起点控制柄的骨骼"
 
 #. :src: bpy.types.Bone.bbone_easein
 #. :src: bpy.types.EditBone.bbone_easein
@@ -5172,7 +5172,7 @@ msgstr "渐入"
 #. :src: bpy.types.EditBone.bbone_easein
 #. :src: bpy.types.PoseBone.bbone_easein
 msgid "Length of first Bezier Handle (for B-Bones only)"
-msgstr "第一个贝塞尔控制柄的长度 (仅用于样条骨)"
+msgstr "第一个贝塞尔控制柄的长度 (仅用于弯管骨骼)"
 
 #. :src: bpy.types.Bone.bbone_easeout
 #. :src: bpy.types.EditBone.bbone_easeout
@@ -5187,17 +5187,17 @@ msgstr "淡出"
 #. :src: bpy.types.EditBone.bbone_easeout
 #. :src: bpy.types.PoseBone.bbone_easeout
 msgid "Length of second Bezier Handle (for B-Bones only)"
-msgstr "第二个贝塞尔控制柄的长度 (仅用于样条骨)"
+msgstr "第二个贝塞尔控制柄的长度 (仅用于弯管骨骼)"
 
 #. :src: bpy.types.Bone.bbone_handle_type_end
 #. :src: bpy.types.EditBone.bbone_handle_type_end
 msgid "B-Bone End Handle Type"
-msgstr "样条线骨骼终点控制柄类型"
+msgstr "弯管骨骼终点控制柄类型"
 
 #. :src: bpy.types.Bone.bbone_handle_type_end
 #. :src: bpy.types.EditBone.bbone_handle_type_end
 msgid "Selects how the end handle of the B-Bone is computed"
-msgstr "选择如何计算样条线骨骼的末端手柄"
+msgstr "选择如何计算弯管骨骼的末端手柄"
 
 #. :src: bpy.types.Bone.bbone_handle_type_end:'AUTO'
 #. :src: bpy.types.Bone.bbone_handle_type_start:'AUTO'
@@ -5292,13 +5292,12 @@ msgstr "使用指定骨骼的方向来计算句柄, 而忽略该位置"
 #. :src: bpy.types.Bone.bbone_handle_type_start
 #. :src: bpy.types.EditBone.bbone_handle_type_start
 msgid "B-Bone Start Handle Type"
-msgstr "样条线骨骼起点控制柄类型"
+msgstr "弯管骨骼起点控制柄类型"
 
 #. :src: bpy.types.Bone.bbone_handle_type_start
 #. :src: bpy.types.EditBone.bbone_handle_type_start
-#, fuzzy
 msgid "Selects how the start handle of the B-Bone is computed"
-msgstr "选择如何计算 b 骨的起始句柄"
+msgstr "选择如何计算弯管骨骼的起始句柄"
 
 #. :src: bpy.types.Bone.bbone_rollin
 #. :src: bpy.types.EditBone.bbone_rollin
@@ -5311,7 +5310,7 @@ msgstr "滚入"
 #. :src: bpy.types.EditBone.bbone_rollin
 #. :src: bpy.types.PoseBone.bbone_rollin
 msgid "Roll offset for the start of the B-Bone, adjusts twist"
-msgstr "为样条线骨骼的起点滚动偏移，调整扭曲"
+msgstr "为弯管骨骼的起点滚动偏移，调整扭曲"
 
 #. :src: bpy.types.Bone.bbone_rollout
 #. :src: bpy.types.EditBone.bbone_rollout
@@ -5323,7 +5322,7 @@ msgstr "推出"
 #. :src: bpy.types.EditBone.bbone_rollout
 #. :src: bpy.types.PoseBone.bbone_rollout
 msgid "Roll offset for the end of the B-Bone, adjusts twist"
-msgstr "为样条线骨骼的终点滚动偏移，调整扭曲"
+msgstr "为弯管骨骼的终点滚动偏移，调整扭曲"
 
 #. :src: bpy.types.Bone.bbone_scalein
 #. :src: bpy.types.EditBone.bbone_scalein
@@ -5338,7 +5337,7 @@ msgstr "首端缩放"
 msgid ""
 "Scale factor for start of the B-Bone, adjusts thickness (for tapering "
 "effects)"
-msgstr "样条线骨骼起点的比例系数, 调整厚度 (用于逐渐变细的效果)"
+msgstr "弯管骨骼起点的比例系数, 调整厚度 (用于逐渐变细的效果)"
 
 #. :src: bpy.types.Bone.bbone_scaleout
 #. :src: bpy.types.EditBone.bbone_scaleout
@@ -5351,37 +5350,37 @@ msgstr "尾端缩放"
 #. :src: bpy.types.PoseBone.bbone_scaleout
 msgid ""
 "Scale factor for end of the B-Bone, adjusts thickness (for tapering effects)"
-msgstr "样条线骨骼终点的比例系数, 调整厚度 (用于逐渐变细的效果)"
+msgstr "弯管骨骼终点的比例系数, 调整厚度 (用于逐渐变细的效果)"
 
 #. :src: bpy.types.Bone.bbone_segments
 #. :src: bpy.types.EditBone.bbone_segments
 msgid "B-Bone Segments"
-msgstr "样条骨段"
+msgstr "弯管骨骼段"
 
 #. :src: bpy.types.Bone.bbone_segments
 #. :src: bpy.types.EditBone.bbone_segments
 msgid "Number of subdivisions of bone (for B-Bones only)"
-msgstr "骨骼的细分等级 (仅用于样条骨)"
+msgstr "骨骼的细分等级 (仅用于弯管骨骼)"
 
 #. :src: bpy.types.Bone.bbone_x
 #. :src: bpy.types.EditBone.bbone_x
 msgid "B-Bone Display X Width"
-msgstr "样条骨的 X 向宽度"
+msgstr "弯管骨骼的 X 向宽度"
 
 #. :src: bpy.types.Bone.bbone_x
 #. :src: bpy.types.EditBone.bbone_x
 msgid "B-Bone X size"
-msgstr "X 向样条骨尺寸"
+msgstr "X 向弯管骨骼尺寸"
 
 #. :src: bpy.types.Bone.bbone_z
 #. :src: bpy.types.EditBone.bbone_z
 msgid "B-Bone Display Z Width"
-msgstr "样条骨的 Z 向宽度"
+msgstr "弯管骨骼的 Z 向宽度"
 
 #. :src: bpy.types.Bone.bbone_z
 #. :src: bpy.types.EditBone.bbone_z
 msgid "B-Bone Z size"
-msgstr "Z 向样条骨尺寸"
+msgstr "Z 向弯管骨骼尺寸"
 
 #. :src: bpy.types.Bone.children
 #. :src: bpy.types.Collection.children
@@ -5933,7 +5932,7 @@ msgstr "角度系数"
 msgid ""
 "Reduce brush thickness by this factor when stroke is perpendicular to "
 "'Angle' direction"
-msgstr "当笔划垂直于 “角度” 方向时，减小笔刷厚度"
+msgstr "当笔画垂直于 “角度” 方向时，减小笔刷厚度"
 
 #. :src: bpy.types.BrushGpencilSettings.curve_jitter
 msgid "Curve Jitter"
@@ -6222,7 +6221,7 @@ msgstr "默认"
 
 #. :src: bpy.types.BrushGpencilSettings.fill_draw_mode:'BOTH'
 msgid "Use both visible strokes and edit lines as fill boundary limits"
-msgstr "使用可见笔划和编辑线作为填充边界限制"
+msgstr "使用可见笔画和编辑线作为填充边界限制"
 
 #. :src: bpy.types.BrushGpencilSettings.fill_draw_mode:'STROKE'
 #. :src: bpy.types.GPencilFrame.strokes
@@ -6236,7 +6235,7 @@ msgstr "笔触"
 
 #. :src: bpy.types.BrushGpencilSettings.fill_draw_mode:'STROKE'
 msgid "Use visible strokes as fill boundary limits"
-msgstr "使用可见笔划作为填充边界限制"
+msgstr "使用可见笔画作为填充边界限制"
 
 #. :src: bpy.types.BrushGpencilSettings.fill_draw_mode:'CONTROL'
 #. :src: scripts/startup/bl_ui/space_view3d.py:5530
@@ -6422,7 +6421,7 @@ msgstr "重力系数"
 
 #. :src: bpy.types.BrushGpencilSettings.gradient_factor
 msgid "Amount of gradient for Dot strokes (set to 1 for full solid)"
-msgstr "点笔划的渐变量（对于完整的实体，设置为 1）"
+msgstr "点笔画的渐变量（对于完整的实体，设置为 1）"
 
 #. :src: bpy.types.BrushGpencilSettings.gradient_shape
 #. :src: bpy.types.GPencilStroke.gradient_shape
@@ -6610,7 +6609,7 @@ msgstr "细分步数"
 #. :src: bpy.types.BrushGpencilSettings.pen_subdivision_steps
 msgid ""
 "Number of times to subdivide newly created strokes, for less jagged strokes"
-msgstr "细分新创建笔划的次数，以减少锯齿状笔划"
+msgstr "细分新创建笔画的次数，以减少锯齿状笔画"
 
 #. :src: bpy.types.BrushGpencilSettings.pen_thick_smooth_factor
 msgid "Smooth Thickness"
@@ -6681,11 +6680,11 @@ msgstr "当绘制笔触时, 不要绘制填充颜色"
 
 #. :src: bpy.types.BrushGpencilSettings.trim
 msgid "Trim Stroke Ends"
-msgstr "修剪笔划结束"
+msgstr "修剪笔画结束"
 
 #. :src: bpy.types.BrushGpencilSettings.trim
 msgid "Trim intersecting stroke ends"
-msgstr "修剪相交的笔划结束"
+msgstr "修剪相交的笔画结束"
 
 #. :src: bpy.types.BrushGpencilSettings.use_cursor
 #. :src: bpy.types.GPencilSculptBrush.use_cursor
@@ -10560,7 +10559,7 @@ msgstr "使用当前位置"
 msgid ""
 "Use the current bone location for envelopes and choosing B-Bone segments "
 "instead of rest position"
-msgstr ""
+msgstr "将当前骨骼位置用于封套并选择弯管骨骼段而不是静止位置"
 
 #. :src: bpy.types.ArmatureConstraint.use_deform_preserve_volume
 #. :src: bpy.types.ArmatureGpencilModifier.use_deform_preserve_volume
@@ -10778,7 +10777,7 @@ msgstr "运动的主轴"
 #. :src: scripts/startup/bl_ui/space_view3d_toolbar.py:1218
 #. :src: scripts/startup/bl_ui/space_view3d_toolbar.py:1429
 msgid "X"
-msgstr "X"
+msgstr ""
 
 #. :src: bpy.types.ClampToConstraint.main_axis:'CLAMPTO_Y'
 #. :src: bpy.types.DampedTrackConstraint.track_axis:'TRACK_Y'
@@ -10862,7 +10861,7 @@ msgstr "X"
 #. :src: scripts/startup/bl_ui/space_view3d_toolbar.py:1219
 #. :src: scripts/startup/bl_ui/space_view3d_toolbar.py:1430
 msgid "Y"
-msgstr "Y"
+msgstr ""
 
 #. :src: bpy.types.ClampToConstraint.main_axis:'CLAMPTO_Z'
 #. :src: bpy.types.DampedTrackConstraint.track_axis:'TRACK_Z'
@@ -10913,7 +10912,7 @@ msgstr "Y"
 #. :src: scripts/startup/bl_ui/space_view3d_toolbar.py:1220
 #. :src: scripts/startup/bl_ui/space_view3d_toolbar.py:1431
 msgid "Z"
-msgstr "Z"
+msgstr ""
 
 #. :src: bpy.types.ClampToConstraint.target
 msgid "Target Object (Curves only)"
@@ -11000,7 +10999,7 @@ msgstr "反转 Z 的位置"
 #. :src: bpy.types.StretchToConstraint.use_bbone_shape
 #. :src: bpy.types.TrackToConstraint.use_bbone_shape
 msgid "Follow B-Bone"
-msgstr "跟随样条线骨骼"
+msgstr "跟随弯管骨骼"
 
 #. :src: bpy.types.CopyLocationConstraint.use_bbone_shape
 #. :src: bpy.types.CopyTransformsConstraint.use_bbone_shape
@@ -11011,7 +11010,7 @@ msgstr "跟随样条线骨骼"
 #. :src: bpy.types.StretchToConstraint.use_bbone_shape
 #. :src: bpy.types.TrackToConstraint.use_bbone_shape
 msgid "Follow shape of B-Bone segments when calculating Head/Tail position"
-msgstr "当计算首/尾位置时跟随样条线骨骼分段的形状"
+msgstr "当计算首 / 尾位置时跟随弯管骨骼段的形状"
 
 #. :src: bpy.types.CopyLocationConstraint.use_offset
 msgid "Add original location into copied location"
@@ -13297,7 +13296,7 @@ msgstr "从属图"
 
 #. :src: bpy.types.Depsgraph.ids
 msgid "IDs"
-msgstr "IDs"
+msgstr ""
 
 #. :src: bpy.types.Depsgraph.ids
 msgid "All evaluated datablocks"
@@ -13359,6 +13358,8 @@ msgid ""
 "All object instances to display or render (WARNING: only use this as an "
 "iterator, never as a sequence, and do not keep any references to its items)"
 msgstr ""
+"要显示或呈现的所有对象实例（警告：仅将其用作迭代器，从不作为序列使用，并且不"
+"保留对其项的任何引用）"
 
 #. :src: bpy.types.Depsgraph.objects
 msgid "Evaluated objects in the dependency graph"
@@ -13390,7 +13391,7 @@ msgstr "场景"
 #. :src: bpy.types.Depsgraph.scene
 #. :src: bpy.types.Depsgraph.scene_eval
 msgid "Original scene dependency graph is built for"
-msgstr ""
+msgstr "原始场景依赖图构建用于"
 
 #. :src: bpy.types.Depsgraph.updates
 msgid "Updates"
@@ -13416,7 +13417,7 @@ msgstr "视图层"
 #. :src: bpy.types.Depsgraph.view_layer
 #. :src: bpy.types.Depsgraph.view_layer_eval
 msgid "Original view layer dependency graph is built for"
-msgstr ""
+msgstr "原始视图层依赖图构建用于"
 
 #. :src: bpy.types.DepsgraphObjectInstance
 msgid "Dependency Graph Object Instance"
@@ -13497,12 +13498,12 @@ msgstr "已计算此物体实例化来源的粒子系统"
 
 #. :src: bpy.types.DepsgraphObjectInstance.persistent_id
 msgid "Persistent ID"
-msgstr "固定 ID"
+msgstr "永久 ID"
 
 #. :src: bpy.types.DepsgraphObjectInstance.persistent_id
 msgid ""
 "Persistent identifier for inter-frame matching of objects with motion blur"
-msgstr "用于带运动模糊的对象内部帧匹配的持久标识"
+msgstr "具有运动模糊的对象的帧间匹配的持久标识符"
 
 #. :src: bpy.types.DepsgraphObjectInstance.random_id
 msgid "Dupli random id"
@@ -13510,7 +13511,7 @@ msgstr "复制随机 id"
 
 #. :src: bpy.types.DepsgraphObjectInstance.random_id
 msgid "Random id for this instance, typically for randomized shading"
-msgstr ""
+msgstr "此实例的随机 ID，通常用于随机着色"
 
 #. :src: bpy.types.DepsgraphObjectInstance.show_particles
 msgid "Show Particles"
@@ -13518,7 +13519,7 @@ msgstr "显示粒子"
 
 #. :src: bpy.types.DepsgraphObjectInstance.show_particles
 msgid "Particles part of the object should be visible in the render"
-msgstr ""
+msgstr "对象的粒子部分应该在渲染中可见"
 
 #. :src: bpy.types.DepsgraphObjectInstance.show_self
 msgid "Show Self"
@@ -13526,7 +13527,7 @@ msgstr "显示自身"
 
 #. :src: bpy.types.DepsgraphObjectInstance.show_self
 msgid "The object geometry itself should be visible in the render"
-msgstr ""
+msgstr "对象几何体本身应该在渲染中可见"
 
 #. :src: bpy.types.DepsgraphObjectInstance.uv
 msgid "UV Coordinates"
@@ -13551,7 +13552,7 @@ msgstr "关于 ID 的信息已更新"
 #. :src: bpy.types.CyclesDeviceSettings.id
 #. :src: bpy.types.SpaceNodeEditor.id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. :src: bpy.types.DepsgraphUpdate.id
 msgid "Updated datablock"
@@ -13785,11 +13786,11 @@ msgstr "包含与动画数据相关的可视化晶格"
 
 #. :src: bpy.types.DopeSheet.show_lights
 msgid "Display Light"
-msgstr "显示灯光"
+msgstr "显示光源"
 
 #. :src: bpy.types.DopeSheet.show_lights
 msgid "Include visualization of light related animation data"
-msgstr "包含与动画数据相关的灯光的可视化"
+msgstr "包含与动画数据相关的光源的可视化"
 
 #. :src: bpy.types.DopeSheet.show_linestyles
 msgid "Display Line Style"
@@ -13956,8 +13957,7 @@ msgstr "源"
 
 #. :src: bpy.types.DopeSheet.source
 msgid "ID-Block representing source data, usually ID_SCE (i.e. Scene)"
-msgstr ""
-"ID 表示源数据, 以及当前的 ID_SCE (针对动画摄影表), 和 ID_SC (针对蜡笔工具)"
+msgstr "表示源数据的 ID 块，通常是 ID_SCE（即场景）"
 
 #. :src: bpy.types.DopeSheet.use_datablock_sort
 msgid "Sort Data-Blocks"
@@ -13997,7 +13997,7 @@ msgstr "简单表达式"
 msgid ""
 "The scripted expression can be evaluated without using the full python "
 "interpreter"
-msgstr ""
+msgstr "可以在不使用完整的 python 解释器的情况下评估脚本表达式"
 
 #. :src: bpy.types.Driver.is_valid
 #. :src: bpy.types.FModifier.type:'NULL'
@@ -14008,7 +14008,7 @@ msgstr "非法输入"
 
 #. :src: bpy.types.Driver.is_valid
 msgid "Driver could not be evaluated in past, so should be skipped"
-msgstr "驱动不在过去计算"
+msgstr "驱动程序无法在过去进行评估，因此应该跳过"
 
 #. :src: bpy.types.Driver.type
 msgid "Driver type"
@@ -14260,7 +14260,7 @@ msgstr "按键"
 #. :src: bpy.types.SpaceOutliner.filter_id_type:'LIGHT'
 msgctxt "ID"
 msgid "Light"
-msgstr "灯光"
+msgstr "光源"
 
 #. :src: bpy.types.DriverTarget.id_type:'LIBRARY'
 #. :src: bpy.types.Action.id_root:'LIBRARY'
@@ -14392,7 +14392,7 @@ msgstr "粒子"
 #. :src: bpy.types.SpaceOutliner.filter_id_type:'LIGHT_PROBE'
 msgctxt "ID"
 msgid "Light Probe"
-msgstr "光照探头"
+msgstr "光源探头"
 
 #. :src: bpy.types.DriverTarget.id_type:'SCENE'
 #. :src: bpy.types.Action.id_root:'SCENE'
@@ -14480,7 +14480,7 @@ msgstr "变换使用的坐标空间"
 
 #. :src: bpy.types.DriverTarget.transform_space:'WORLD_SPACE'
 msgid "Transforms include effects of parenting/restpose and constraints"
-msgstr ""
+msgstr "变换包括父级 / 休息姿势和约束的效果"
 
 #. :src: bpy.types.DriverTarget.transform_space:'TRANSFORM_SPACE'
 msgid "Transforms don't include parenting/restpose or constraints"
@@ -15878,7 +15878,7 @@ msgstr "自动 WXYZ 转 YRGB"
 #. :src: bpy.types.FCurve.color_mode:'AUTO_YRGB'
 msgid ""
 "Use axis colors for XYZ parts of transform, and yellow for the 'W' channel"
-msgstr ""
+msgstr "对于 XYZ 变换部分使用轴颜色，对 “W” 通道使用黄色"
 
 #. :src: bpy.types.FCurve.color_mode:'CUSTOM'
 #. :src: bpy.types.KeyConfig.is_user_defined
@@ -16012,7 +16012,7 @@ msgstr "禁用"
 #. :src: bpy.types.FCurve.mute
 #. :src: bpy.types.FModifier.mute
 msgid "Disable F-Curve Modifier evaluation"
-msgstr ""
+msgstr "禁用函数曲线修改器评估"
 
 #. :src: bpy.types.FCurve.sampled_points
 msgid "Sampled Points"
@@ -16143,44 +16143,44 @@ msgstr "单声道"
 #. :src: bpy.types.FFmpegSettings.audio_channels:'MONO'
 #. :src: bpy.types.PreferencesSystem.audio_channels:'MONO'
 msgid "Set audio channels to mono"
-msgstr "设置为单声道"
+msgstr "将音频通道设置为单声道"
 
 #. :src: bpy.types.FFmpegSettings.audio_channels:'STEREO'
 #. :src: bpy.types.PreferencesSystem.audio_channels:'STEREO'
 msgid "Set audio channels to stereo"
-msgstr "设置为立体声"
+msgstr "将音频通道设置为立体声"
 
 # rblc
 #. :src: bpy.types.FFmpegSettings.audio_channels:'SURROUND4'
 #. :src: bpy.types.PreferencesSystem.audio_channels:'SURROUND4'
 msgid "4 Channels"
-msgstr "4 声道"
+msgstr "4 通道"
 
 # rblc
 #. :src: bpy.types.FFmpegSettings.audio_channels:'SURROUND4'
 #. :src: bpy.types.PreferencesSystem.audio_channels:'SURROUND4'
 msgid "Set audio channels to 4 channels"
-msgstr "将音频通道设置为 4 通道"
+msgstr "将音频通道设置为 4 个通道"
 
 #. :src: bpy.types.FFmpegSettings.audio_channels:'SURROUND51'
 #. :src: bpy.types.PreferencesSystem.audio_channels:'SURROUND51'
 msgid "5.1 Surround"
-msgstr "5.1声道环绕"
+msgstr "5.1 环绕"
 
 #. :src: bpy.types.FFmpegSettings.audio_channels:'SURROUND51'
 #. :src: bpy.types.PreferencesSystem.audio_channels:'SURROUND51'
 msgid "Set audio channels to 5.1 surround sound"
-msgstr "设置为5.1声道环绕"
+msgstr "将音频通道设置为 5.1 环绕声"
 
 #. :src: bpy.types.FFmpegSettings.audio_channels:'SURROUND71'
 #. :src: bpy.types.PreferencesSystem.audio_channels:'SURROUND71'
 msgid "7.1 Surround"
-msgstr "7.1声道环绕"
+msgstr "7.1 环绕"
 
 #. :src: bpy.types.FFmpegSettings.audio_channels:'SURROUND71'
 #. :src: bpy.types.PreferencesSystem.audio_channels:'SURROUND71'
 msgid "Set audio channels to 7.1 surround sound"
-msgstr "设置为7.1声道环绕"
+msgstr "将音频通道设置为 7.1 环绕声"
 
 #. :src: bpy.types.FFmpegSettings.audio_codec
 #. :src: bpy.types.SOUND_OT_mixdown.codec
@@ -16203,7 +16203,7 @@ msgstr "已禁用音频输入, 仅供视频渲染"
 #. :src: bpy.types.FFmpegSettings.audio_codec:'VORBIS'
 #. :src: bpy.types.SOUND_OT_mixdown.codec:'VORBIS'
 msgid "Vorbis"
-msgstr "Vorbis"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.audio_mixrate
 msgid "Samplerate"
@@ -16252,11 +16252,11 @@ msgstr "已禁用视频输入, 仅供音频渲染"
 
 #. :src: bpy.types.FFmpegSettings.codec:'DNXHD'
 msgid "DNxHD"
-msgstr "DNxHD"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.codec:'FFV1'
 msgid "FFmpeg video codec #1"
-msgstr "FFmpeg video codec #1"
+msgstr "FFmpeg 视频编解码器 #1"
 
 #. :src: bpy.types.FFmpegSettings.codec:'FLASH'
 msgid "Flash Video"
@@ -16264,33 +16264,33 @@ msgstr "Flash 视频"
 
 #. :src: bpy.types.FFmpegSettings.codec:'H264'
 msgid "H.264"
-msgstr "H.264"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.codec:'HUFFYUV'
 msgid "HuffYUV"
-msgstr "HuffYUV"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.codec:'MPEG1'
 #. :src: bpy.types.FFmpegSettings.format:'MPEG1'
 msgid "MPEG-1"
-msgstr "MPEG-1"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.codec:'MPEG2'
 #. :src: bpy.types.FFmpegSettings.format:'MPEG2'
 msgid "MPEG-2"
-msgstr "MPEG-2"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.codec:'MPEG4'
 msgid "MPEG-4 (divx)"
-msgstr "MPEG-4 (divx)"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.codec:'QTRLE'
 msgid "QT rle / QT Animation"
-msgstr "QT RLE 格式编码 / QT 动画格式编码"
+msgstr "QT rle / QT 动画"
 
 #. :src: bpy.types.FFmpegSettings.codec:'THEORA'
 msgid "Theora"
-msgstr "Theora"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.codec:'WEBM'
 msgid "WEBM / VP9"
@@ -16396,24 +16396,24 @@ msgstr "输出文件容器"
 
 #. :src: bpy.types.FFmpegSettings.format:'MPEG4'
 msgid "MPEG-4"
-msgstr "MPEG-4"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.format:'QUICKTIME'
 msgid "Quicktime"
-msgstr "Quicktime"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.format:'OGG'
 msgid "Ogg"
-msgstr "Ogg"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.format:'MKV'
 #. :src: bpy.types.SOUND_OT_mixdown.container:'MATROSKA'
 msgid "Matroska"
-msgstr "Matroska (MKV)"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.format:'FLASH'
 msgid "Flash"
-msgstr "Flash"
+msgstr ""
 
 #. :src: bpy.types.FFmpegSettings.gopsize
 msgid "Keyframe interval"
@@ -16423,18 +16423,18 @@ msgstr "关键帧间隔"
 msgid ""
 "Distance between key frames, also known as GOP size; influences file size "
 "and seekability"
-msgstr "关键帧间的距离, 也称为 GOP 尺寸, 影响文件尺寸和可寻性"
+msgstr "关键帧间的距离, 也称为图片组 (GOP) 尺寸, 影响文件尺寸和可寻性"
 
 #. :src: bpy.types.FFmpegSettings.max_b_frames
 #. :src: scripts/startup/bl_ui/properties_output.py:398
 msgid "Max B-frames"
-msgstr "最大 B-帧"
+msgstr "最大双向预测帧 (B-frames)"
 
 #. :src: bpy.types.FFmpegSettings.max_b_frames
 msgid ""
 "Maximum number of B-frames between non-B-frames; influences file size and "
 "seekability"
-msgstr "非-B-帧间 B-帧的最大数量, 影响文件大小和可寻性"
+msgstr "非双向预测帧 (B-frames) 间双向预测帧的最大数量, 影响文件大小和可寻性"
 
 #. :src: bpy.types.FFmpegSettings.maxrate
 msgid "Max Rate"
@@ -16488,11 +16488,11 @@ msgstr "为视频流使用无损输出"
 
 #. :src: bpy.types.FFmpegSettings.use_max_b_frames
 msgid "Use max B-frames"
-msgstr "使用最大 B-帧"
+msgstr "使用最大双向预测帧 (B-frames)"
 
 #. :src: bpy.types.FFmpegSettings.use_max_b_frames
 msgid "Set a maximum number of B-frames"
-msgstr ""
+msgstr "设置双向预测帧 (B-frames) 最大帧数"
 
 #. :src: bpy.types.FFmpegSettings.video_bitrate
 msgid "Video bitrate (kb/s)"
@@ -16613,7 +16613,7 @@ msgstr "改变函数曲线数值 (例如, 改变运动幅度)"
 #. :src: bpy.types.CYCLES
 #. :src: source/blender/blenkernel/intern/fmodifier.c:762
 msgid "Cycles"
-msgstr "Cycles"
+msgstr ""
 
 #. :src: bpy.types.FModifier.type:'CYCLES'
 #. :src: bpy.types.GRAPH_OT_fmodifier_add.type:'CYCLES'
@@ -16908,7 +16908,7 @@ msgstr "规格化的正弦"
 
 #. :src: bpy.types.FModifierFunctionGenerator.function_type:'SINC'
 msgid "sin(x) / x"
-msgstr "sin(x) / x"
+msgstr ""
 
 #. :src: bpy.types.FModifierFunctionGenerator.phase_multiplier
 msgid "Phase Multiplier"
@@ -17782,7 +17782,7 @@ msgstr "重力衰减"
 
 #. :src: bpy.types.FieldSettings.use_gravity_falloff
 msgid "Multiply force by 1/distance²"
-msgstr "用 1/距离² 乘数力"
+msgstr "乘以 1 / 距离 ²"
 
 #. :src: bpy.types.FieldSettings.use_guide_path_add
 msgid "Based on distance/falloff it adds a portion of the entire path"
@@ -18233,7 +18233,7 @@ msgstr "扩展名过滤"
 msgid ""
 "UNIX shell-like filename patterns matching, supports wildcards ('*') and "
 "list of patterns separated by ';'"
-msgstr ""
+msgstr "UNIX 壳类文件名模式匹配，支持通配符（'*'）和由 ';' 分隔的模式列表"
 
 #. :src: bpy.types.FileSelectParams.filter_id
 msgid "Filter ID types"
@@ -18293,11 +18293,11 @@ msgstr "声音数据块"
 
 #. :src: bpy.types.FileSelectParams.filter_id:'LINESTYLE'
 msgid "Freestyle Linestyles"
-msgstr "Freestyle 线条样式"
+msgstr "描边 (Freestyle) 线条样式"
 
 #. :src: bpy.types.FileSelectParams.filter_id:'LINESTYLE'
 msgid "Show/hide Freestyle's Line Style data-blocks"
-msgstr "显示/隐藏Freestyle的线条央视数据块"
+msgstr "显示/隐藏描边 (Freestyle) 的线条央视数据块"
 
 #. :src: bpy.types.FileSelectParams.filter_id:'LATTICE'
 #, fuzzy
@@ -18366,11 +18366,11 @@ msgstr "曲线数据块"
 #. :src: bpy.types.FileSelectParams.filter_id:'LIGHT_PROBE'
 #. :src: scripts/startup/bl_ui/properties_texture.py:385
 msgid "Light Probes"
-msgstr "光照探头"
+msgstr "光源探头"
 
 #. :src: bpy.types.FileSelectParams.filter_id:'LIGHT_PROBE'
 msgid "Show/hide Light Probe data-blocks"
-msgstr "显示/隐藏光照探头数据块"
+msgstr "显示/隐藏光源探头数据块"
 
 #. :src: bpy.types.FileSelectParams.filter_id:'SCENE'
 msgid "Show/hide Scene data-blocks"
@@ -18429,7 +18429,7 @@ msgstr "动画"
 
 #. :src: bpy.types.FileSelectParams.filter_id_category:'ANIMATION'
 msgid "Show/hide animation data"
-msgstr ""
+msgstr "显示 / 隐藏动画数据"
 
 #. :src: bpy.types.FileSelectParams.filter_id_category:'OBJECT'
 msgid "Objects & Collections"
@@ -18457,7 +18457,7 @@ msgstr "着色方式"
 
 #. :src: bpy.types.FileSelectParams.filter_id_category:'SHADING'
 msgid "Show/hide materials, nodetrees, textures and Freestyle's linestyles"
-msgstr "显示/隐藏材质，节点树，纹理和Freestyle的线条样式"
+msgstr "显示/隐藏材质，节点树，纹理和描边 (Freestyle) 的线条样式"
 
 #. :src: bpy.types.FileSelectParams.filter_id_category:'IMAGE'
 msgid "Images & Sounds"
@@ -18478,7 +18478,7 @@ msgstr "环境"
 
 #. :src: bpy.types.FileSelectParams.filter_id_category:'ENVIRONMENT'
 msgid "Show/hide worlds, lights, cameras and speakers"
-msgstr "显示 / 隐藏世界，灯光，相机和扬声器"
+msgstr "显示 / 隐藏世界，光源，相机和扬声器"
 
 #. :src: bpy.types.FileSelectParams.filter_id_category:'MISC'
 #. :src: bpy.types.USERPREF_PT_edit_misc
@@ -19753,7 +19753,7 @@ msgstr "包含"
 
 #. :src: bpy.types.FreestyleLineSet.collection_negation:'INCLUSIVE'
 msgid "Select feature edges belonging to some object in the group"
-msgstr ""
+msgstr "选择属于组中某些对象的形体边缘"
 
 #. :src: bpy.types.FreestyleLineSet.collection_negation:'EXCLUSIVE'
 #. :src: bpy.types.FreestyleLineSet.edge_type_negation:'EXCLUSIVE'
@@ -19763,7 +19763,7 @@ msgstr "排除"
 
 #. :src: bpy.types.FreestyleLineSet.collection_negation:'EXCLUSIVE'
 msgid "Select feature edges not belonging to any object in the group"
-msgstr ""
+msgstr "选择不属于组中任何对象的形体边缘"
 
 #. :src: bpy.types.FreestyleLineSet.edge_type_combination
 msgid "Edge Type Combination"
@@ -19772,7 +19772,7 @@ msgstr "边线类型组合"
 #. :src: bpy.types.FreestyleLineSet.edge_type_combination
 msgid ""
 "Specify a logical combination of selection conditions on feature edge types"
-msgstr ""
+msgstr "在形体边缘类型上指定选择条件的逻辑组合"
 
 #. :src: bpy.types.FreestyleLineSet.edge_type_combination:'OR'
 msgid "Logical OR"
@@ -19780,7 +19780,7 @@ msgstr "逻辑 OR"
 
 #. :src: bpy.types.FreestyleLineSet.edge_type_combination:'OR'
 msgid "Select feature edges satisfying at least one of edge type conditions"
-msgstr ""
+msgstr "选择满足至少一种边缘类型条件的形体边缘"
 
 #. :src: bpy.types.FreestyleLineSet.edge_type_combination:'AND'
 msgid "Logical AND"
@@ -19788,7 +19788,7 @@ msgstr "逻辑 AND"
 
 #. :src: bpy.types.FreestyleLineSet.edge_type_combination:'AND'
 msgid "Select feature edges satisfying all edge type conditions"
-msgstr ""
+msgstr "选择满足所有边缘类型条件的形体边缘"
 
 # pblc
 #. :src: bpy.types.FreestyleLineSet.edge_type_negation
@@ -19910,7 +19910,7 @@ msgstr "面标记条件"
 
 #. :src: bpy.types.FreestyleLineSet.face_mark_condition
 msgid "Specify a feature edge selection condition based on face marks"
-msgstr ""
+msgstr "根据面标记指定形体边缘选择条件"
 
 #. :src: bpy.types.FreestyleLineSet.face_mark_condition:'ONE'
 msgid "One Face"
@@ -19918,7 +19918,7 @@ msgstr "单面"
 
 #. :src: bpy.types.FreestyleLineSet.face_mark_condition:'ONE'
 msgid "Select a feature edge if either of its adjacent faces is marked"
-msgstr ""
+msgstr "如果标记了其中任何一个相邻面，请选择一个形体边缘"
 
 #. :src: bpy.types.FreestyleLineSet.face_mark_condition:'BOTH'
 msgid "Both Faces"
@@ -19926,7 +19926,7 @@ msgstr "双面"
 
 #. :src: bpy.types.FreestyleLineSet.face_mark_condition:'BOTH'
 msgid "Select a feature edge if both of its adjacent faces are marked"
-msgstr ""
+msgstr "如果标记了两个相邻的面，请选择一个形体边缘"
 
 # pblc
 #. :src: bpy.types.FreestyleLineSet.face_mark_negation
@@ -19936,7 +19936,7 @@ msgstr "面标记反向条件"
 #. :src: bpy.types.FreestyleLineSet.face_mark_negation
 msgid ""
 "Specify either inclusion or exclusion of feature edges selected by face marks"
-msgstr ""
+msgstr "指定包含或排除由面标记选择的形体边缘"
 
 #. :src: bpy.types.FreestyleLineSet.face_mark_negation:'INCLUSIVE'
 msgid "Select feature edges satisfying the given face mark conditions"
@@ -20096,7 +20096,7 @@ msgstr ""
 
 #. :src: bpy.types.FreestyleLineSet.select_edge_mark
 msgid "Select edge marks (edges annotated by Freestyle edge marks)"
-msgstr "选择边标记（由Freestyle边标记注释的边）"
+msgstr "选择边缘标记（由描边 (Freestyle) 边缘标记注释的边）"
 
 #. :src: bpy.types.FreestyleLineSet.select_external_contour
 msgid ""
@@ -20250,7 +20250,7 @@ msgstr "描边 (Freestyle) 设置"
 
 #. :src: bpy.types.FreestyleSettings
 msgid "Freestyle settings for a ViewLayer data-block"
-msgstr "用于视图层数据块的 Freestyle 配置"
+msgstr "用于视图层数据块的描边 (Freestyle) 配置"
 
 #. :src: bpy.types.FreestyleSettings.crease_angle
 #. :src: bpy.types.LineStyleAlphaModifier_AlongStroke.type:'CREASE_ANGLE'
@@ -20311,7 +20311,7 @@ msgstr "控制模式"
 
 #. :src: bpy.types.FreestyleSettings.mode
 msgid "Select the Freestyle control mode"
-msgstr "选择 Freestyle 的控制模式"
+msgstr "选择描边 (Freestyle) 的控制模式"
 
 #. :src: bpy.types.FreestyleSettings.mode:'SCRIPT'
 msgid "Python Scripting Mode"
@@ -21915,11 +21915,11 @@ msgstr "启用闭合绘制，闭合笔画"
 #. :src: bpy.types.GPencilStroke.end_cap_mode
 #. :src: bpy.types.ArrayModifier.end_cap
 msgid "End Cap"
-msgstr "末端对象"
+msgstr "结束端点"
 
 #. :src: bpy.types.GPencilStroke.end_cap_mode
 msgid "Stroke end extreme cap style"
-msgstr ""
+msgstr "笔画末端风格"
 
 #. :src: bpy.types.GPencilStroke.end_cap_mode:'ROUND'
 #. :src: bpy.types.GPencilStroke.start_cap_mode:'ROUND'
@@ -21959,7 +21959,7 @@ msgstr "用于此顶点所属顶点组的权重值"
 
 #. :src: bpy.types.GPencilStroke.is_nofill_stroke
 msgid "No Fill"
-msgstr "無填充"
+msgstr "无填充"
 
 #. :src: bpy.types.GPencilStroke.is_nofill_stroke
 msgid "Special stroke to use as boundary for filling areas"
@@ -22000,11 +22000,11 @@ msgstr "选择笔触进行视口编辑"
 #. :src: bpy.types.GPencilStroke.start_cap_mode
 #. :src: bpy.types.ArrayModifier.start_cap
 msgid "Start Cap"
-msgstr "前端对象"
+msgstr "开始端点"
 
 #. :src: bpy.types.GPencilStroke.start_cap_mode
 msgid "Stroke start extreme cap style"
-msgstr ""
+msgstr "笔画开端风格"
 
 #. :src: bpy.types.GPencilStroke.triangles
 #. :src: bpy.types.CyclesCurveRenderSettings.primitive:'TRIANGLES'
@@ -22101,7 +22101,7 @@ msgstr "第二三角顶点纹理坐标"
 
 #. :src: bpy.types.GPencilTriangle.uv3
 msgid "Third triangle vertex texture coordinates"
-msgstr ""
+msgstr "第三个三角形顶点纹理坐标"
 
 #. :src: bpy.types.GPencilTriangle.v1
 msgid "First triangle vertex index"
@@ -22113,7 +22113,7 @@ msgstr "第二三角顶点编号"
 
 #. :src: bpy.types.GPencilTriangle.v3
 msgid "Third triangle vertex index"
-msgstr ""
+msgstr "第三个三角形顶点索引"
 
 #. :src: bpy.types.Gizmo
 msgctxt "Operator"
@@ -22187,7 +22187,7 @@ msgstr "缩放偏移矩阵 (用来应用屏幕-空间偏移)"
 
 #. :src: bpy.types.Gizmo.use_draw_scale
 msgid "Use scale when calculating the matrix"
-msgstr ""
+msgstr "计算矩阵时使用比例"
 
 #. :src: bpy.types.Gizmo.use_draw_value
 msgid "Draw Value"
@@ -22195,7 +22195,7 @@ msgstr "绘制值"
 
 #. :src: bpy.types.Gizmo.use_draw_value
 msgid "Show an indicator for the current value while dragging"
-msgstr ""
+msgstr "拖动时显示当前值的指示器"
 
 #. :src: bpy.types.Gizmo.use_grab_cursor
 #. :src: bpy.types.OperatorOptions.is_grab_cursor
@@ -22253,7 +22253,7 @@ msgstr "选项"
 
 #. :src: bpy.types.GizmoGroup.bl_options
 msgid "Options for this operator type"
-msgstr ""
+msgstr "此运算符类型的选项"
 
 #. :src: bpy.types.GizmoGroup.bl_options:'3D'
 msgid "Use in 3D viewport"
@@ -23390,7 +23390,7 @@ msgstr "衰减曲线"
 
 #. :src: bpy.types.HookGpencilModifier.falloff_curve
 msgid "Custom Light Falloff Curve"
-msgstr "自定义灯光衰减曲线"
+msgstr "自定义光源衰减曲线"
 
 #. :src: bpy.types.HookGpencilModifier.falloff_radius
 #. :src: bpy.types.HookModifier.falloff_radius
@@ -24457,7 +24457,7 @@ msgstr "以带点的 2D 简明线条样式显示骨骼"
 
 #. :src: bpy.types.Armature.display_type:'BBONE'
 msgid "B-Bone"
-msgstr "样条骨"
+msgstr "弯管骨骼"
 
 # rblc
 #. :src: bpy.types.Armature.display_type:'BBONE'
@@ -27703,7 +27703,7 @@ msgstr "笔触绘制模式"
 
 #. :src: bpy.types.GreasePencil.is_stroke_paint_mode
 msgid "Draw Grease Pencil strokes on click/drag"
-msgstr "点击/拖拽时绘制蜡笔笔触"
+msgstr "点击 / 拖拽时绘制蜡笔笔触"
 
 #. :src: bpy.types.GreasePencil.is_stroke_sculpt_mode
 msgid "Stroke Sculpt Mode"
@@ -27782,7 +27782,7 @@ msgstr "2D 层"
 
 #. :src: bpy.types.GreasePencil.stroke_depth_order:'2D'
 msgid "Display strokes using grease pencil layers to define order"
-msgstr "使用蜡笔图层显示笔划来定义顺序"
+msgstr "使用蜡笔图层显示笔画来定义顺序"
 
 #. :src: bpy.types.GreasePencil.stroke_depth_order:'3D'
 msgid "3D Location"
@@ -28605,7 +28605,7 @@ msgstr "晶格的点"
 #. :src: bpy.types.Lattice.points_u
 #. :src: bpy.types.MaskSplinePointUW.u
 msgid "U"
-msgstr "U"
+msgstr ""
 
 #. :src: bpy.types.Lattice.points_u
 msgid "Point in U direction (can't be changed when there are shape keys)"
@@ -28625,7 +28625,7 @@ msgstr "在 U 向生效 (当存在形态键时无法更改)"
 #. :src: scripts/startup/bl_ui/properties_data_lattice.py:75
 #. :src: scripts/startup/bl_ui/properties_data_modifier.py:1919
 msgid "V"
-msgstr "V"
+msgstr ""
 
 #. :src: bpy.types.Lattice.points_v
 msgid "Point in V direction (can't be changed when there are shape keys)"
@@ -28636,7 +28636,7 @@ msgstr "在 V 向生效 (当存在形态键时无法更改)"
 #. :src: scripts/startup/bl_ui/properties_data_lattice.py:69
 #. :src: scripts/startup/bl_ui/properties_data_lattice.py:76
 msgid "W"
-msgstr "W"
+msgstr ""
 
 #. :src: bpy.types.Lattice.points_w
 msgid "Point in W direction (can't be changed when there are shape keys)"
@@ -28669,15 +28669,15 @@ msgstr "该对应版本的 Blender 库文件 .blend 保存于"
 #. :src: source/blender/editors/object/object_add.c:1109
 msgctxt "Light"
 msgid "Light"
-msgstr "灯光"
+msgstr "光源"
 
 #. :src: bpy.types.Light
 msgid "Light data-block for lighting a scene"
-msgstr "照亮一个场景的灯光数据块"
+msgstr "照亮一个场景的光源数据块"
 
 #. :src: bpy.types.Light.color
 msgid "Light color"
-msgstr "灯光颜色"
+msgstr "光源颜色"
 
 #. :src: bpy.types.Light.cutoff_distance
 msgid "Cutoff Distance"
@@ -28685,15 +28685,15 @@ msgstr "截止距离"
 
 #. :src: bpy.types.Light.cutoff_distance
 msgid "Distance at which the light influence will be set to 0"
-msgstr "灯光影响被设定为 0 的距离"
+msgstr "光源影响被设定为 0 的距离"
 
 #. :src: bpy.types.Light.cycles
 msgid "Cycles Light Settings"
-msgstr "Cycles 灯光设定"
+msgstr "Cycles 光源设定"
 
 #. :src: bpy.types.Light.cycles
 msgid "Cycles light settings"
-msgstr "Cycles 灯光设定"
+msgstr "Cycles 光源设定"
 
 #. :src: bpy.types.Light.distance
 msgid ""
@@ -28702,7 +28702,7 @@ msgstr "衰减距离 - 此点的光线强度较初始值减半"
 
 #. :src: bpy.types.Light.node_tree
 msgid "Node tree for node based lights"
-msgstr "基于节点的光照的节点树"
+msgstr "基于节点的光源的节点树"
 
 #. :src: bpy.types.Light.specular_factor
 msgid "Specular Factor"
@@ -28720,7 +28720,7 @@ msgstr "类型"
 
 #. :src: bpy.types.Light.type
 msgid "Type of Light"
-msgstr "光照类型"
+msgstr "光源类型"
 
 #. :src: bpy.types.Light.type:'POINT'
 #. :src: bpy.types.OBJECT_OT_light_add.type:'POINT'
@@ -28780,11 +28780,11 @@ msgstr ""
 
 #. :src: bpy.types.Light.use_nodes
 msgid "Use shader nodes to render the light"
-msgstr "使用着色器节点渲染光照"
+msgstr "使用着色器节点渲染光源"
 
 #. :src: bpy.types.AreaLight
 msgid "Area Light"
-msgstr "区域光"
+msgstr "区域光源"
 
 #. :src: bpy.types.AreaLight
 msgid "Directional area Light"
@@ -28869,7 +28869,7 @@ msgstr ""
 #. :src: scripts/startup/bl_ui/properties_physics_field.py:240
 #. :src: scripts/startup/bl_ui/properties_physics_field.py:279
 msgid "Power"
-msgstr "能量(乘方)"
+msgstr "能量 v(乘方)"
 
 #. :src: bpy.types.AreaLight.energy
 #. :src: bpy.types.PointLight.energy
@@ -28882,7 +28882,7 @@ msgstr "光线发射量"
 #. :src: bpy.types.PointLight.falloff_curve
 #. :src: bpy.types.SpotLight.falloff_curve
 msgid "Custom light falloff curve"
-msgstr "自定义灯光衰减曲线"
+msgstr "自定义光源衰减曲线"
 
 #. :src: bpy.types.AreaLight.falloff_type
 #. :src: bpy.types.PointLight.falloff_type
@@ -28997,7 +28997,7 @@ msgstr "阴影缓冲出血偏移"
 #. :src: bpy.types.SunLight.shadow_buffer_bleed_bias
 #. :src: bpy.types.LightProbe.visibility_bleed_bias
 msgid "Bias for reducing light-bleed on variance shadow maps"
-msgstr "在方差阴影映射(VSM)降低灯光出血的偏移量"
+msgstr "在方差阴影映射 (VSM) 降低光源出血的偏移量"
 
 #. :src: bpy.types.AreaLight.shadow_buffer_clip_end
 #. :src: bpy.types.PointLight.shadow_buffer_clip_end
@@ -29039,7 +29039,7 @@ msgstr "阴影缓冲区指数"
 #. :src: bpy.types.SpotLight.shadow_buffer_exp
 #. :src: bpy.types.SunLight.shadow_buffer_exp
 msgid "Bias for reducing light-bleed on exponential shadow maps"
-msgstr "在指数阴影映射减少灯光消耗的偏向"
+msgstr "在指数阴影映射减少光源消耗的偏向"
 
 #. :src: bpy.types.AreaLight.shadow_buffer_samples
 #. :src: bpy.types.PointLight.shadow_buffer_samples
@@ -29092,7 +29092,7 @@ msgstr "阴影色彩"
 #. :src: bpy.types.SpotLight.shadow_color
 #. :src: bpy.types.SunLight.shadow_color
 msgid "Color of shadows cast by the light"
-msgstr "灯光投射的阴影的颜色"
+msgstr "光源投射的阴影的颜色"
 
 #. :src: bpy.types.AreaLight.shadow_soft_size
 #. :src: bpy.types.PointLight.shadow_soft_size
@@ -29203,11 +29203,11 @@ msgstr "聚光灯的光束夹角"
 
 #. :src: bpy.types.SpotLight.use_square
 msgid "Cast a square spot light shape"
-msgstr "投射方形的聚光照明效果"
+msgstr "投射方形的聚光源明效果"
 
 #. :src: bpy.types.SunLight
 msgid "Sun Light"
-msgstr "太阳光照"
+msgstr "太阳光源"
 
 #. :src: bpy.types.SunLight
 msgid "Constant direction parallel ray Light"
@@ -29247,7 +29247,7 @@ msgstr "串联阴影映射的终点距离 (仅在透视视图)"
 
 #. :src: bpy.types.LightProbe
 msgid "Light Probe data-block for lighting capture objects"
-msgstr "照亮俘获物体的光照探头数据块"
+msgstr "照亮俘获物体的光源探头数据块"
 
 #. :src: bpy.types.LightProbe.clip_end
 msgid "Probe clip end, beyond which objects will not appear in reflections"
@@ -29371,7 +29371,7 @@ msgstr ""
 
 #. :src: bpy.types.LightProbe.type
 msgid "Type of light probe"
-msgstr "光照探头类型"
+msgstr "光源探头类型"
 
 #. :src: bpy.types.LightProbe.type:'CUBEMAP'
 #. :src: bpy.types.OBJECT_OT_lightprobe_add.type:'CUBEMAP'
@@ -29566,7 +29566,7 @@ msgstr "线条色彩"
 
 #. :src: bpy.types.Material.line_color
 msgid "Line color used for Freestyle line rendering"
-msgstr "用于Freestyle线渲染的线条颜色"
+msgstr "用于描边 (Freestyle) 线渲染的线条颜色"
 
 #. :src: bpy.types.Material.line_priority
 msgid "Line Priority"
@@ -30105,7 +30105,7 @@ msgstr "渲染过程中的多边形化精度"
 
 #. :src: bpy.types.MetaBall.resolution
 msgid "Wire Size"
-msgstr "线号"
+msgstr "线尺寸"
 
 #. :src: bpy.types.MetaBall.resolution
 msgid "Polygonization resolution in the 3D viewport"
@@ -31614,7 +31614,7 @@ msgstr "基于面尺寸缩放实例"
 
 #. :src: bpy.types.Object.use_instance_vertices_rotation
 msgid "Orient with Normals"
-msgstr ""
+msgstr "使用法线朝向"
 
 #. :src: bpy.types.Object.use_instance_vertices_rotation
 #, fuzzy
@@ -33825,7 +33825,7 @@ msgstr "自动将新制表符转换为空格"
 #. :src: bpy.types.Texture
 #, fuzzy
 msgid "Texture data-block used by materials, lights, worlds and brushes"
-msgstr "供材质、灯光、世界及笔刷所使用纹理数据块"
+msgstr "供材质、光源、世界及笔刷所使用纹理数据块"
 
 #. :src: bpy.types.Texture.factor_blue
 msgid "Factor Blue"
@@ -35307,11 +35307,11 @@ msgstr "Cycles 世界设定"
 #. :src: bpy.types.WorldLighting
 #. :src: Add-ons' categories
 msgid "Lighting"
-msgstr "光照"
+msgstr "光源"
 
 #. :src: bpy.types.World.light_settings
 msgid "World lighting settings"
-msgstr "世界光照设定"
+msgstr "世界光源设定"
 
 #. :src: bpy.types.World.mist_settings
 #. :src: bpy.types.RenderLayer.use_pass_mist
@@ -41543,13 +41543,13 @@ msgstr "添加图像"
 #. :src: scripts/startup/bl_ui/space_userpref.py:320
 #. :src: scripts/startup/bl_ui/space_view3d.py:4803
 msgid "Light"
-msgstr "灯光"
+msgstr "光源"
 
 #. :src: bpy.types.VIEW3D_MT_lightprobe_add
 #. :src: bpy.types.SpaceView3D.show_object_select_light_probe
 #. :src: bpy.types.SpaceView3D.show_object_viewport_light_probe
 msgid "Light Probe"
-msgstr "光照探头"
+msgstr "光源探头"
 
 #. :src: bpy.types.VIEW3D_MT_make_links
 #. :src: scripts/startup/bl_ui/space_view3d.py:1712
@@ -41717,7 +41717,7 @@ msgstr "描边 (Freestyle) 标记边"
 
 #. :src: bpy.types.MeshEdge.use_freestyle_mark
 msgid "Edge mark for Freestyle line rendering"
-msgstr "用于Freestyle线条渲染的边标记"
+msgstr "用于描边 (Freestyle) 线条渲染的边缘标记"
 
 #. :src: bpy.types.MeshEdge.use_seam
 #. :src: bpy.types.DecimateModifier.delimit:'SEAM'
@@ -42015,7 +42015,7 @@ msgstr "描边 (Freestyle) 面标记"
 
 #. :src: bpy.types.MeshPolygon.use_freestyle_mark
 msgid "Face mark for Freestyle line rendering"
-msgstr "用于Freestyle线条渲染的面标记"
+msgstr "用于描边 (Freestyle) 线条渲染的面标记"
 
 #. :src: bpy.types.MeshPolygonFloatProperty
 msgid "Mesh Polygon Float Property"
@@ -43507,7 +43507,7 @@ msgstr "描边 (Freestyle) 标记"
 #. :src: bpy.types.OBJECT_OT_data_transfer.data_type:'FREESTYLE_EDGE'
 #. :src: bpy.types.OBJECT_OT_datalayout_transfer.data_type:'FREESTYLE_EDGE'
 msgid "Transfer Freestyle edge mark"
-msgstr "传递 Freestyle 标记边"
+msgstr "传递描边 (Freestyle) 标记边"
 
 #. :src: bpy.types.DataTransferModifier.data_types_loops
 msgid "Face Corner Data Types"
@@ -43579,7 +43579,7 @@ msgstr "传递平直/光滑标记"
 #. :src: bpy.types.OBJECT_OT_data_transfer.data_type:'FREESTYLE_FACE'
 #. :src: bpy.types.OBJECT_OT_datalayout_transfer.data_type:'FREESTYLE_FACE'
 msgid "Transfer Freestyle face mark"
-msgstr "传递 Freestyle 面标记"
+msgstr "传递描边 (Freestyle) 面标记"
 
 #. :src: bpy.types.DataTransferModifier.data_types_verts
 msgid "Vertex Data Types"
@@ -59508,7 +59508,7 @@ msgstr "使用节点"
 
 #. :src: bpy.types.CYCLES_OT_use_shading_nodes
 msgid "Enable nodes on a material, world or light"
-msgstr "在一个材质, 世界或灯光上启动节点"
+msgstr "在一个材质, 世界或光源上启动节点"
 
 #. :src: bpy.types.DPAINT_OT_bake
 msgctxt "Operator"
@@ -60297,7 +60297,7 @@ msgstr "使用哪种物体导出"
 
 #. :src: bpy.types.EXPORT_SCENE_OT_fbx.object_types:'LIGHT'
 msgid "Lamp"
-msgstr "灯光"
+msgstr "光源"
 
 #. :src: bpy.types.EXPORT_SCENE_OT_fbx.object_types:'ARMATURE'
 msgid "WARNING: not supported in dupli/group instances"
@@ -62345,7 +62345,7 @@ msgstr ""
 #. :src: bpy.types.GPENCIL_OT_extrude_move
 msgctxt "Operator"
 msgid "Extrude Stroke Points"
-msgstr "挤出笔划点"
+msgstr "挤出笔画点"
 
 #. :src: bpy.types.GPENCIL_OT_extrude
 #. :src: bpy.types.GPENCIL_OT_extrude_move.GPENCIL_OT_extrude
@@ -62494,9 +62494,8 @@ msgid "Guide angle"
 msgstr "边线角度"
 
 #. :src: bpy.types.GPENCIL_OT_guide_rotate.increment
-#, fuzzy
 msgid "Increment angle"
-msgstr "递增"
+msgstr "增量角度"
 
 #. :src: bpy.types.GPENCIL_OT_hide
 msgctxt "Operator"
@@ -62827,7 +62826,7 @@ msgstr "不要选择笔触的起点和终点"
 
 #. :src: bpy.types.GPENCIL_OT_select_box
 msgid "Select Grease Pencil strokes within a rectangular region"
-msgstr "选择矩形区域内的 \"蜡笔笔划\""
+msgstr "选择矩形区域内的 \"蜡笔笔画\""
 
 #. :src: bpy.types.GPENCIL_OT_select_circle
 msgid "Select Grease Pencil strokes using brush selection"
@@ -62849,9 +62848,8 @@ msgstr "扩展旋转, 而不是取消旋转所有其它选定点"
 
 #. :src: bpy.types.GPENCIL_OT_select_first.only_selected_strokes
 #. :src: bpy.types.GPENCIL_OT_select_last.only_selected_strokes
-#, fuzzy
 msgid "Selected Strokes Only"
-msgstr "仅选中骨骼"
+msgstr "仅选定的笔画"
 
 #. :src: bpy.types.GPENCIL_OT_select_first.only_selected_strokes
 msgid ""
@@ -63006,11 +63004,11 @@ msgstr "设置剪辑模式"
 
 #. :src: bpy.types.GPENCIL_OT_stroke_caps_set
 msgid "Change Stroke caps mode (rounded or flat)"
-msgstr ""
+msgstr "改变笔画端点模式（圆形或扁平）"
 
 #. :src: bpy.types.GPENCIL_OT_stroke_caps_set.type:'TOGGLE'
 msgid "Set as default rounded"
-msgstr ""
+msgstr "设为默认圆形"
 
 #. :src: bpy.types.GPENCIL_OT_stroke_change_color
 msgctxt "Operator"
@@ -63033,7 +63031,7 @@ msgstr "笔触中心"
 
 #. :src: bpy.types.GPENCIL_OT_stroke_cutter
 msgid "Select section and cut"
-msgstr ""
+msgstr "选择部分并剪切"
 
 #. :src: bpy.types.GPENCIL_OT_stroke_cyclical_set
 msgctxt "Operator"
@@ -63119,7 +63117,7 @@ msgstr "在背面绘画"
 
 #. :src: bpy.types.GPENCIL_OT_stroke_merge.back
 msgid "Draw new stroke below all previous strokes"
-msgstr ""
+msgstr "在所有先前笔画下绘制新笔画"
 
 #. :src: bpy.types.GPENCIL_OT_stroke_merge.clear_point
 msgid "Dissolve Points"
@@ -65453,9 +65451,8 @@ msgid "Do not allow beveled edges/vertices to overlap each other"
 msgstr "不允许倒角边线/顶点以重叠彼此"
 
 #. :src: bpy.types.MESH_OT_bevel.face_strength_mode
-#, fuzzy
 msgid "Face Strength Mode"
-msgstr "特性强度"
+msgstr "面部强度模式"
 
 #. :src: bpy.types.MESH_OT_bevel.face_strength_mode
 msgid "Whether to set face strength, and which faces to set face strength on"
@@ -66677,21 +66674,21 @@ msgstr "沿网格滑动已选中的循环边"
 #. :src: bpy.types.MESH_OT_mark_freestyle_edge
 msgctxt "Operator"
 msgid "Mark Freestyle Edge"
-msgstr "标记 Freestyle 边"
+msgstr "标记描边 (Freestyle) 边"
 
 #. :src: bpy.types.MESH_OT_mark_freestyle_edge
 msgid "(Un)mark selected edges as Freestyle feature edges"
-msgstr "将选中的边标记 / 取消标记为 Freestyle 特征边"
+msgstr "将选中的边缘标记 / 取消标记为描边 (Freestyle) 特征边"
 
 #. :src: bpy.types.MESH_OT_mark_freestyle_face
 msgctxt "Operator"
 msgid "Mark Freestyle Face"
-msgstr "标记 Freestyle 面"
+msgstr "标记描边 (Freestyle) 面"
 
 #. :src: bpy.types.MESH_OT_mark_freestyle_face
 msgid ""
 "(Un)mark selected faces for exclusion from Freestyle feature edge detection"
-msgstr "将选中的边标记 / 取消标记为 Freestyle 特征边排除项"
+msgstr "将选中的边缘标记 / 取消标记为描边 (Freestyle) 特征边排除项"
 
 #. :src: bpy.types.MESH_OT_mark_seam
 #. :src: bpy.types.UV_OT_mark_seam
@@ -66702,7 +66699,7 @@ msgstr "标记缝合边"
 
 #. :src: bpy.types.MESH_OT_mark_seam
 msgid "(Un)mark selected edges as a seam"
-msgstr "将选中的边标记 / 取消标记为缝合边"
+msgstr "将选中的边缘标记 / 取消标记为缝合边"
 
 #. :src: bpy.types.MESH_OT_mark_sharp
 msgctxt "Operator"
@@ -66711,7 +66708,7 @@ msgstr "标记锐边"
 
 #. :src: bpy.types.MESH_OT_mark_sharp
 msgid "(Un)mark selected edges as sharp"
-msgstr "将选中的边标记 / 取消标记为锐边"
+msgstr "将选中的边缘标记 / 取消标记为锐边"
 
 #. :src: bpy.types.MESH_OT_mark_sharp.use_verts
 msgid ""
@@ -68132,7 +68129,7 @@ msgstr "面的顶角"
 
 #. :src: bpy.types.MESH_OT_select_similar.type:'FREESTYLE_EDGE'
 msgid "Freestyle Edge Marks"
-msgstr "描边 (Freestyle) 边标记"
+msgstr "描边 (Freestyle) 边缘标记"
 
 #. :src: bpy.types.MESH_OT_select_similar.type:'SIDES'
 msgid "Polygon Sides"
@@ -70875,20 +70872,20 @@ msgstr "在拉普拉斯形变修改器绑定网格到系统"
 #. :src: bpy.types.OBJECT_OT_light_add
 msgctxt "Operator"
 msgid "Add Light"
-msgstr "添加灯光"
+msgstr "添加光源"
 
 #. :src: bpy.types.OBJECT_OT_light_add
 msgid "Add a light object to the scene"
-msgstr "添加一个灯光物体到场景"
+msgstr "添加一个光源物体到场景"
 
 #. :src: bpy.types.OBJECT_OT_lightprobe_add
 msgctxt "Operator"
 msgid "Add Light Probe"
-msgstr "添加光照探头"
+msgstr "添加光源探头"
 
 #. :src: bpy.types.OBJECT_OT_lightprobe_add
 msgid "Add a light probe object"
-msgstr "添加光照探头对象"
+msgstr "添加光源探头对象"
 
 #. :src: bpy.types.OBJECT_OT_lightprobe_add.type:'CUBEMAP'
 msgid "Reflection probe with spherical or cubic attenuation"
@@ -71787,11 +71784,11 @@ msgstr "在活动插帧集中的对象"
 
 #. :src: bpy.types.OBJECT_OT_select_grouped.type:'LIGHT_TYPE'
 msgid "Light Type"
-msgstr "光照类型"
+msgstr "光源类型"
 
 #. :src: bpy.types.OBJECT_OT_select_grouped.type:'LIGHT_TYPE'
 msgid "Matching light types"
-msgstr "匹配灯光类型"
+msgstr "匹配光源类型"
 
 #. :src: bpy.types.OBJECT_OT_select_hierarchy
 msgid "Select object relative to the active object's position in the hierarchy"
@@ -75462,7 +75459,7 @@ msgstr "复制棚灯设置"
 
 #. :src: bpy.types.PREFERENCES_OT_studiolight_copy_settings
 msgid "Copy Studio Light settings to the Studio light editor"
-msgstr "复制工作室灯光设定到工作室灯光编辑器"
+msgstr "复制工作室光源设定到工作室光源编辑器"
 
 #. :src: bpy.types.PREFERENCES_OT_studiolight_install
 msgctxt "Operator"
@@ -75497,16 +75494,16 @@ msgstr ""
 
 #. :src: bpy.types.PREFERENCES_OT_studiolight_show
 msgid "Show light preferences"
-msgstr "显示光照偏好"
+msgstr "显示光源偏好"
 
 #. :src: bpy.types.PREFERENCES_OT_studiolight_uninstall
 msgctxt "Operator"
 msgid "Uninstall Studio Light"
-msgstr "卸载工作室灯光"
+msgstr "卸载工作室光源"
 
 #. :src: bpy.types.PREFERENCES_OT_studiolight_uninstall
 msgid "Delete Studio Light"
-msgstr "删除工作室灯光"
+msgstr "删除工作室光源"
 
 #. :src: bpy.types.PREFERENCES_OT_theme_install
 msgctxt "Operator"
@@ -76089,8 +76086,7 @@ msgstr "向帧配置中添加边标识"
 msgid ""
 "Add the data paths to the Freestyle Edge Mark property of selected edges to "
 "the active keying set"
-msgstr ""
-"将所选边的Freestyle Edge Mark(Freestyle边标记)属性的数据路径添加到活动键控集"
+msgstr "将所选边的描边 (Freestyle) 边缘标记属性的数据路径添加到活动键控集"
 
 #. :src: bpy.types.SCENE_OT_freestyle_add_face_marks_to_keying_set
 msgctxt "Operator"
@@ -76101,7 +76097,7 @@ msgstr "向帧配置中添加面标识"
 msgid ""
 "Add the data paths to the Freestyle Face Mark property of selected polygons "
 "to the active keying set"
-msgstr "添加数据路径到所选多边形的 Freestyle 面遮罩属性来激活插帧集"
+msgstr "添加数据路径到所选多边形的描边 (Freestyle) 面遮罩属性来激活插帧集"
 
 #. :src: bpy.types.SCENE_OT_freestyle_alpha_modifier_add
 msgctxt "Operator"
@@ -76249,7 +76245,7 @@ msgstr ""
 #. :src: bpy.types.SCENE_OT_freestyle_module_add
 msgctxt "Operator"
 msgid "Add Freestyle Module"
-msgstr "添加 Freestyle 模块"
+msgstr "添加描边 (Freestyle) 模块"
 
 #. :src: bpy.types.SCENE_OT_freestyle_module_add
 msgid "Add a style module into the list of modules"
@@ -76258,7 +76254,7 @@ msgstr "在模块列表种添加一个样式模块"
 #. :src: bpy.types.SCENE_OT_freestyle_module_move
 msgctxt "Operator"
 msgid "Move Freestyle Module"
-msgstr "移动 Freestyle 模块"
+msgstr "移动描边 (Freestyle) 模块"
 
 #. :src: bpy.types.SCENE_OT_freestyle_module_move
 msgid ""
@@ -76290,7 +76286,7 @@ msgstr "加载后将模块设置为内部文件"
 #. :src: bpy.types.SCENE_OT_freestyle_module_remove
 msgctxt "Operator"
 msgid "Remove Freestyle Module"
-msgstr "移除 Freestyle 模块"
+msgstr "移除描边 (Freestyle) 模块"
 
 #. :src: bpy.types.SCENE_OT_freestyle_module_remove
 msgid "Remove the style module from the stack"
@@ -76299,11 +76295,11 @@ msgstr ""
 #. :src: bpy.types.SCENE_OT_freestyle_stroke_material_create
 msgctxt "Operator"
 msgid "Create Freestyle Stroke Material"
-msgstr "创建 Freestyle 笔触材质"
+msgstr "创建描边 (Freestyle) 笔触材质"
 
 #. :src: bpy.types.SCENE_OT_freestyle_stroke_material_create
 msgid "Create Freestyle stroke material for testing"
-msgstr "创建用于测试的 Freestyle 笔触材质"
+msgstr "创建用于测试的描边 (Freestyle) 笔触材质"
 
 #. :src: bpy.types.SCENE_OT_freestyle_thickness_modifier_add
 msgctxt "Operator"
@@ -76339,7 +76335,7 @@ msgstr "添加或删除预置的蜡笔材质"
 #, fuzzy
 msgctxt "Operator"
 msgid "Bake Light Cache"
-msgstr "光照缓存"
+msgstr "光源缓存"
 
 #. :src: bpy.types.SCENE_OT_light_cache_bake
 msgid "Bake the active view layer lighting"
@@ -76386,7 +76382,7 @@ msgstr ""
 #, fuzzy
 msgctxt "Operator"
 msgid "Delete Light Cache"
-msgstr "光照缓存"
+msgstr "光源缓存"
 
 #. :src: bpy.types.SCENE_OT_light_cache_free
 msgid "Delete cached indirect lighting"
@@ -80180,7 +80176,7 @@ msgstr "隐藏(非)选定的 UV 顶点"
 #. :src: bpy.types.UV_OT_lightmap_pack
 msgctxt "Operator"
 msgid "Lightmap Pack"
-msgstr "光照贴图拼排"
+msgstr "光源贴图拼排"
 
 #. :src: bpy.types.UV_OT_lightmap_pack
 msgid "Pack each faces UV's into the UV bounds"
@@ -85185,7 +85181,7 @@ msgstr "边缘修正"
 
 #. :src: bpy.types.RENDER_PT_eevee_indirect_lighting
 msgid "Indirect Lighting"
-msgstr "间接光照明"
+msgstr "间接光源明"
 
 #. :src: bpy.types.RENDER_PT_eevee_screen_space_reflections
 #. :src: bpy.types.SceneEEVEE.use_ssr
@@ -85204,7 +85200,7 @@ msgstr "体积"
 #. :src: bpy.types.RENDER_PT_eevee_volumetric_lighting
 #. :src: bpy.types.SceneEEVEE.use_volumetric_lights
 msgid "Volumetric Lighting"
-msgstr "体积光照"
+msgstr "体积光源"
 
 #. :src: bpy.types.RENDER_PT_eevee_volumetric_shadows
 #. :src: bpy.types.SceneEEVEE.use_volumetric_shadows
@@ -87673,11 +87669,11 @@ msgstr "使函数曲线数据可随对象一同被复制"
 
 #. :src: bpy.types.PreferencesEdit.use_duplicate_light
 msgid "Duplicate Light"
-msgstr "复制灯光"
+msgstr "复制光源"
 
 #. :src: bpy.types.PreferencesEdit.use_duplicate_light
 msgid "Causes light data to be duplicated with the object"
-msgstr "使灯光数据和物体一同被复制"
+msgstr "使光源数据和物体一同被复制"
 
 #. :src: bpy.types.PreferencesEdit.use_duplicate_material
 msgid "Duplicate Material"
@@ -88844,7 +88840,7 @@ msgstr "用于存储控制台缓存的最大行数"
 #. :src: bpy.types.PreferencesSystem.solid_lights
 #. :src: bpy.types.StudioLight.solid_lights
 msgid "Solid Lights"
-msgstr "固定的实体光照"
+msgstr "固定的实体光源"
 
 #. :src: bpy.types.PreferencesSystem.solid_lights
 #. :src: bpy.types.StudioLight.solid_lights
@@ -88923,11 +88919,11 @@ msgstr ""
 
 #. :src: bpy.types.PreferencesSystem.use_studio_light_edit
 msgid "Edit Studio Light"
-msgstr "编辑工作室灯光"
+msgstr "编辑工作室光源"
 
 #. :src: bpy.types.PreferencesSystem.use_studio_light_edit
 msgid "View the result of the studio light editor in the viewport"
-msgstr "在视口查看工作室灯光编辑器的结果"
+msgstr "在视口查看工作室光源编辑器的结果"
 
 #. :src: bpy.types.PreferencesView.color_picker_type
 msgid "Color Picker Type"
@@ -89091,7 +89087,7 @@ msgstr "对象原点尺寸"
 
 #. :src: bpy.types.PreferencesView.object_origin_size
 msgid "Diameter in Pixels for Object/Light origin display"
-msgstr "物体/灯光原点显示的像素直径"
+msgstr "物体/光源原点显示的像素直径"
 
 #. :src: bpy.types.PreferencesView.open_sublevel_delay
 msgid "Sub Level Menu Open Delay"
@@ -89713,7 +89709,7 @@ msgstr "投射阴影"
 
 #. :src: bpy.types.CyclesLightSettings.cast_shadow
 msgid "Light casts shadows"
-msgstr "灯光投影"
+msgstr "光源投影"
 
 #. :src: bpy.types.CyclesLightSettings.is_portal
 msgid "Is Portal"
@@ -89727,7 +89723,7 @@ msgstr ""
 
 #. :src: bpy.types.CyclesLightSettings.max_bounces
 msgid "Maximum number of bounces the light will contribute to the render"
-msgstr "灯光贡献给渲染的最大反弹数"
+msgstr "光源贡献给渲染的最大反弹数"
 
 #. :src: bpy.types.CyclesLightSettings.samples
 #. :src: bpy.types.CyclesWorldSettings.samples
@@ -89744,7 +89740,7 @@ msgstr "多重重要性采样"
 msgid ""
 "Use multiple importance sampling for the light, reduces noise for area "
 "lights and sharp glossy materials"
-msgstr "为灯光使用多重重要性采样, 用于减少由面光和高光材质所产生的噪点"
+msgstr "为光源使用多重重要性采样, 用于减少由面光和高光材质所产生的噪点"
 
 #. :src: bpy.types.CyclesMaterialSettings.displacement_method
 #. :src: scripts/addons/cycles/ui.py:1720
@@ -89799,7 +89795,7 @@ msgid ""
 "light sources"
 msgstr ""
 "为此材质使用直接光采样, 禁用此项可降低大对象的整体噪点, 同其他光源相比, 大对"
-"象表面会发出微弱光照"
+"象表面会发出微弱光源"
 
 #. :src: bpy.types.CyclesMaterialSettings.use_transparent_shadow
 msgid "Transparent Shadows"
@@ -90599,7 +90595,7 @@ msgstr "各像素的渲染采样次数"
 
 #. :src: bpy.types.CyclesRenderSettings.light_sampling_threshold
 msgid "Light Sampling Threshold"
-msgstr "灯光采样阈值"
+msgstr "光源采样阈值"
 
 #. :src: bpy.types.CyclesRenderSettings.light_sampling_threshold
 msgid ""
@@ -91135,7 +91131,7 @@ msgstr ""
 #. :src: bpy.types.CyclesWorldSettings.max_bounces
 msgid ""
 "Maximum number of bounces the background light will contribute to the render"
-msgstr "背景灯光将贡献给渲染的最大反弹数"
+msgstr "背景光源将贡献给渲染的最大反弹数"
 
 #. :src: bpy.types.CyclesWorldSettings.sample_map_resolution
 msgid "Map Resolution"
@@ -91620,7 +91616,7 @@ msgstr "传递自发光通道"
 #. :src: bpy.types.RenderLayer.use_pass_environment
 #. :src: bpy.types.ViewLayer.use_pass_environment
 msgid "Deliver environment lighting pass"
-msgstr "传递环境光照通道"
+msgstr "传递环境光源通道"
 
 #. :src: bpy.types.RenderLayer.use_pass_glossy_color
 #. :src: bpy.types.ViewLayer.use_pass_glossy_color
@@ -92023,7 +92019,7 @@ msgstr "线条宽度模式"
 
 #. :src: bpy.types.RenderSettings.line_thickness_mode
 msgid "Line thickness mode for Freestyle line drawing"
-msgstr "针对 Freestyle 的线条宽度模式"
+msgstr "针对描边 (Freestyle) 的线条宽度模式"
 
 #. :src: bpy.types.RenderSettings.line_thickness_mode:'ABSOLUTE'
 msgid "Specify unit line thickness in pixels"
@@ -92350,7 +92346,7 @@ msgstr "为渲染文件添加扩展名(例如:文件名.jpg)"
 
 #. :src: bpy.types.RenderSettings.use_freestyle
 msgid "Draw stylized strokes using Freestyle"
-msgstr "使用 Freestyle 绘制风格化笔触"
+msgstr "使用描边 (Freestyle) 绘制风格化笔触"
 
 #. :src: bpy.types.RenderSettings.use_full_sample
 #. :src: bpy.types.Scopes.use_full_resolution
@@ -93485,7 +93481,7 @@ msgstr "改变弹簧的静止长度所需的拉伸 / 压缩量"
 
 #. :src: bpy.types.SceneDisplay.light_direction
 msgid "Light Direction"
-msgstr "灯光方向"
+msgstr "光源方向"
 
 #. :src: bpy.types.SceneDisplay.light_direction
 msgid "Direction of the light for shadows and highlights"
@@ -93586,7 +93582,7 @@ msgstr "编辑探针时自动烘焙间接照明"
 
 #. :src: bpy.types.SceneEEVEE.gi_cache_info
 msgid "Light Cache Info"
-msgstr "光照缓存信息"
+msgstr "光源缓存信息"
 
 #. :src: bpy.types.SceneEEVEE.gi_cubemap_display_size
 msgid "Cubemap Display Size"
@@ -93747,11 +93743,11 @@ msgstr "水平搜索的精度"
 #. :src: bpy.types.SceneEEVEE.light_threshold
 #. :src: scripts/addons/cycles/ui.py:240
 msgid "Light Threshold"
-msgstr "光照阈值"
+msgstr "光源阈值"
 
 #. :src: bpy.types.SceneEEVEE.light_threshold
 msgid "Minimum light intensity for a light to contribute to the lighting"
-msgstr "一个灯光贡献给照明的最小灯光密度"
+msgstr "一个光源贡献给照明的最小光源密度"
 
 #. :src: bpy.types.SceneEEVEE.motion_blur_samples
 msgid "Number of samples to take with motion blur"
@@ -93959,7 +93955,7 @@ msgstr "开启体积材质的散射和吸收"
 
 #. :src: bpy.types.SceneEEVEE.use_volumetric_lights
 msgid "Enable scene light interactions with volumetrics"
-msgstr "开启场景灯光与体积的交互"
+msgstr "开启场景光源与体积的交互"
 
 #. :src: bpy.types.SceneEEVEE.use_volumetric_shadows
 msgid "Generate shadows from volumetric material (Very expensive)"
@@ -93971,7 +93967,7 @@ msgstr "结束体积效果的距离"
 
 #. :src: bpy.types.SceneEEVEE.volumetric_light_clamp
 msgid "Maximum light contribution, reducing noise"
-msgstr "最大光照贡献以降低噪点"
+msgstr "最大光源贡献以降低噪点"
 
 #. :src: bpy.types.SceneEEVEE.volumetric_sample_distribution
 msgid "Exponential Sampling"
@@ -95643,7 +95639,7 @@ msgstr "混合系数"
 #. :src: bpy.types.ShaderFxColorize.high_color
 #, fuzzy
 msgid "Height color"
-msgstr "灯光颜色"
+msgstr "光源颜色"
 
 #. :src: bpy.types.ShaderFxColorize.high_color
 msgid "Second color used for effect"
@@ -95760,7 +95756,7 @@ msgstr "能量"
 
 #. :src: bpy.types.ShaderFxLight.energy
 msgid "Strength of light source"
-msgstr "灯光来源强度"
+msgstr "光源来源强度"
 
 #. :src: bpy.types.ShaderFxLight.object
 msgid "Object to determine light source location"
@@ -98502,11 +98498,11 @@ msgstr "吓死空物体"
 
 #. :src: bpy.types.SpaceOutliner.use_filter_object_light
 msgid "Show Lights"
-msgstr "显示灯光"
+msgstr "显示光源"
 
 #. :src: bpy.types.SpaceOutliner.use_filter_object_light
 msgid "Show light objects"
-msgstr "显示光照物体"
+msgstr "显示光源物体"
 
 #. :src: bpy.types.SpaceOutliner.use_filter_object_mesh
 msgid "Show Meshes"
@@ -99093,7 +99089,7 @@ msgstr "为粒子大小赋予一个随机变量"
 #, fuzzy
 #| msgid "Show Lights"
 msgid "Show Light Look-At"
-msgstr "显示灯光"
+msgstr "显示光源"
 
 #. :src: bpy.types.SpaceView3D.show_gizmo_light_look_at
 #. :src: bpy.types.SpaceView3D.show_gizmo_light_size
@@ -99104,7 +99100,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Show Lights"
 msgid "Show Light Size"
-msgstr "显示灯光"
+msgstr "显示光源"
 
 #. :src: bpy.types.SpaceView3D.show_gizmo_navigate
 msgid "Navigate Gizmo"
@@ -99630,11 +99626,11 @@ msgstr "在一张挤压图像合并两视图"
 #. :src: bpy.types.StudioLight
 #. :src: bpy.types.View3DShading.selected_studio_light
 msgid "Studio Light"
-msgstr "工作室灯光"
+msgstr "工作室光源"
 
 #. :src: bpy.types.StudioLight
 msgid "Studio light"
-msgstr "工作室灯光"
+msgstr "工作室光源"
 
 #. :src: bpy.types.StudioLight.path_irr_cache
 msgid "Irradiance Cache Path"
@@ -99655,7 +99651,7 @@ msgstr ""
 
 #. :src: bpy.types.StudioLights
 msgid "Collection of studio lights"
-msgstr "工作室灯光集合"
+msgstr "工作室光源集合"
 
 #. :src: bpy.types.TexMapping.mapping:'FLAT'
 #. :src: bpy.types.LineStyleTextureSlot.mapping:'FLAT'
@@ -99850,7 +99846,7 @@ msgstr "线条样式纹理接口"
 #. :src: bpy.types.LineStyleTextureSlot
 #, fuzzy
 msgid "Texture slot for textures in a LineStyle data-block"
-msgstr "灯光数据块中纹理的纹理槽"
+msgstr "光源数据块中纹理的纹理槽"
 
 #. :src: bpy.types.LineStyleTextureSlot.alpha_factor
 msgid "Alpha Factor"
@@ -101800,7 +101796,7 @@ msgstr "用于移除重叠点及'自动合并'功能的限定值"
 
 #. :src: bpy.types.ToolSettings.edge_path_mode
 msgid "Edge Tag Mode"
-msgstr "边标记模式"
+msgstr "边缘标记模式"
 
 #. :src: bpy.types.ToolSettings.edge_path_mode
 msgid "The edge flag to tag when selecting the shortest path"
@@ -101824,7 +101820,7 @@ msgstr "标记倒角"
 
 #. :src: bpy.types.ToolSettings.edge_path_mode:'FREESTYLE'
 msgid "Tag Freestyle Edge Mark"
-msgstr "标记 Freestyle 标记边"
+msgstr "标记描边 (Freestyle) 标记边"
 
 #. :src: bpy.types.ToolSettings.face_strength
 #. :src: scripts/startup/bl_ui/space_view3d.py:3421
@@ -102658,15 +102654,15 @@ msgstr "显示双位单位（例如 1m 0cm）"
 
 #. :src: bpy.types.UserSolidLight
 msgid "Solid Light"
-msgstr "实体光照"
+msgstr "实体光源"
 
 #. :src: bpy.types.UserSolidLight
 msgid "Light used for Studio lighting in solid draw mode"
-msgstr "在实体绘制模式中被用作照亮工作室的灯光"
+msgstr "在实体绘制模式中被用作照亮工作室的光源"
 
 #. :src: bpy.types.UserSolidLight.diffuse_color
 msgid "Color of the light's diffuse highlight"
-msgstr "灯光反射高光的颜色"
+msgstr "光源反射高光的颜色"
 
 #. :src: bpy.types.UserSolidLight.direction
 msgid "Direction that the light is shining"
@@ -102674,7 +102670,7 @@ msgstr "光线照耀的方向"
 
 #. :src: bpy.types.UserSolidLight.smooth
 msgid "Smooth the lighting from this light"
-msgstr "从这个光照平滑照明"
+msgstr "从这个光源平滑照明"
 
 #. :src: bpy.types.UserSolidLight.specular_color
 msgid "Color of the light's specular highlight"
@@ -102682,7 +102678,7 @@ msgstr "光线的高光亮调颜色"
 
 #. :src: bpy.types.UserSolidLight.use
 msgid "Enable this light in solid draw mode"
-msgstr "在实体绘制模式启用此灯光"
+msgstr "在实体绘制模式启用此光源"
 
 #. :src: bpy.types.VertexFloatProperties
 msgid "Vertex Float Properties"
@@ -102983,19 +102979,19 @@ msgstr "在透视视图中显示地平面栅格"
 
 #. :src: bpy.types.View3DOverlay.show_freestyle_edge_marks
 msgid "Draw Freestyle Edge Marks"
-msgstr "显示 Freestyle 边标记"
+msgstr "显示描边 (Freestyle) 边缘标记"
 
 #. :src: bpy.types.View3DOverlay.show_freestyle_edge_marks
 msgid "Display Freestyle edge marks, used with the Freestyle renderer"
-msgstr "显示 Freestyle 的标记边, 用于 Freestyle 渲染器"
+msgstr "显示描边 (Freestyle) 的边缘标记 用于描边 (Freestyle) 渲染器"
 
 #. :src: bpy.types.View3DOverlay.show_freestyle_face_marks
 msgid "Draw Freestyle Face Marks"
-msgstr "显示 Freestyle 面标记"
+msgstr "显示描边 (Freestyle) 面标记"
 
 #. :src: bpy.types.View3DOverlay.show_freestyle_face_marks
 msgid "Display Freestyle face marks, used with the Freestyle renderer"
-msgstr "显示 Freestyle 的标记面, 用于 Freestyle 渲染器"
+msgstr "显示描边 (Freestyle) 的面标记, 用于描边 (Freestyle) 渲染器"
 
 #. :src: bpy.types.View3DOverlay.show_look_dev
 msgid "Look Dev Preview"
@@ -103340,15 +103336,15 @@ msgstr ""
 
 #. :src: bpy.types.View3DShading.light:'FLAT'
 msgid "Display using flat lighting"
-msgstr "使用平面灯光显示"
+msgstr "使用平面光源显示"
 
 #. :src: bpy.types.View3DShading.light:'STUDIO'
 msgid "Display using studio lighting"
-msgstr "使用工作室灯光显示"
+msgstr "使用工作室光源显示"
 
 #. :src: bpy.types.View3DShading.light:'MATCAP'
 msgid "Display using matcap material and lighting"
-msgstr "使用 matcap 材质和灯光显示"
+msgstr "使用 matcap 材质和光源显示"
 
 #. :src: bpy.types.View3DShading.object_outline_color
 msgid "Outline Color"
@@ -103421,11 +103417,11 @@ msgstr "单色模式的颜色"
 
 #. :src: bpy.types.View3DShading.studio_light
 msgid "Studiolight"
-msgstr "工作室灯光"
+msgstr "工作室光源"
 
 #. :src: bpy.types.View3DShading.studio_light
 msgid "Studio lighting setup"
-msgstr "工作室灯光安装"
+msgstr "工作室光源安装"
 
 #. :src: bpy.types.View3DShading.studiolight_background_alpha
 msgid "Show the studiolight in the background"
@@ -103433,11 +103429,11 @@ msgstr ""
 
 #. :src: bpy.types.View3DShading.studiolight_rotate_z
 msgid "Studiolight Rotation"
-msgstr "工作室灯光旋转"
+msgstr "工作室光源旋转"
 
 #. :src: bpy.types.View3DShading.studiolight_rotate_z
 msgid "Rotation of the studiolight around the Z-Axis"
-msgstr "工作室灯光围绕 Z-轴的旋转"
+msgstr "工作室光源围绕 Z-轴的旋转"
 
 #. :src: bpy.types.View3DShading.type
 #. :src: scripts/startup/bl_ui/space_view3d.py:4522
@@ -103454,7 +103450,7 @@ msgstr ""
 
 #. :src: bpy.types.View3DShading.use_scene_lights
 msgid "Scene Lights"
-msgstr "场景光照"
+msgstr "场景光源"
 
 #. :src: bpy.types.View3DShading.use_scene_lights
 msgid "Render lights and light probes of the scene"
@@ -103470,11 +103466,11 @@ msgstr ""
 
 #. :src: bpy.types.View3DShading.use_world_space_lighting
 msgid "World Space Lighting"
-msgstr "世界空间光照"
+msgstr "世界空间光源"
 
 #. :src: bpy.types.View3DShading.use_world_space_lighting
 msgid "Make the lighting fixed and not follow the camera"
-msgstr "使光照固定并且不跟随相机"
+msgstr "使光源固定并且不跟随相机"
 
 #. :src: bpy.types.View3DShading.xray_alpha
 #. :src: bpy.types.View3DShading.xray_alpha_wireframe
@@ -104679,7 +104675,7 @@ msgstr "AO"
 
 #. :src: scripts/addons/cycles/ui.py:209
 msgid "Mesh Light"
-msgstr "网格灯光"
+msgstr "网格光源"
 
 #. :src: scripts/addons/cycles/ui.py:328
 #, fuzzy
@@ -104808,7 +104804,7 @@ msgstr "%s 抗锯齿, %s 反射, %s 光泽 %s 透射"
 #. :src: scripts/addons/cycles/ui.py:150
 #. :src: scripts/addons/cycles/ui.py:306
 msgid "%s AO, %s Mesh Light, %s Subsurface, %s Volume"
-msgstr "%s 环境光遮蔽 %s 网格灯光, %s 表面, %s 体积"
+msgstr "%s 环境光遮蔽 %s 网格光源, %s 表面, %s 体积"
 
 #. :src: scripts/addons/cycles/ui.py:365
 msgid "Cull back-faces"
@@ -106481,9 +106477,8 @@ msgstr "加权模式:"
 
 #. :src: scripts/startup/bl_ui/properties_data_modifier.py:1687
 #. :src: scripts/startup/bl_ui/properties_data_modifier.py:1720
-#, fuzzy
 msgid "Affect:"
-msgstr "效果:"
+msgstr "影响："
 
 #. :src: scripts/startup/bl_ui/properties_data_modifier.py:1701
 #. :src: scripts/startup/bl_ui/properties_data_modifier.py:1733
@@ -107969,7 +107964,7 @@ msgstr "自动步长"
 
 #. :src: scripts/startup/bl_ui/properties_render.py:286
 msgid "Light Clamping"
-msgstr "光照钳制"
+msgstr "光源钳制"
 
 #. :src: scripts/startup/bl_ui/properties_render.py:307
 msgid "Shadow Samples"
@@ -107991,7 +107986,7 @@ msgstr "烘焙间接照明"
 #. :src: scripts/startup/bl_ui/properties_render.py:438
 msgctxt "Operator"
 msgid "Delete Lighting Cache"
-msgstr "删除光照缓存"
+msgstr "删除光源缓存"
 
 #. :src: scripts/startup/bl_ui/properties_render.py:448
 msgid "Diffuse Occlusion"
@@ -110153,12 +110148,12 @@ msgstr "平移敏感度"
 
 #. :src: scripts/startup/bl_ui/space_userpref.py:1967
 msgid "Use Light"
-msgstr "使用灯光"
+msgstr "使用光源"
 
 #. :src: scripts/startup/bl_ui/space_userpref.py:1981
 msgctxt "Operator"
 msgid "Save as Studio light"
-msgstr "保存为工作室灯光"
+msgstr "保存为工作室光源"
 
 #. :src: scripts/startup/bl_ui/space_userpref.py:957
 msgid "Color Set d"
@@ -110960,7 +110955,7 @@ msgstr "移除重叠顶点"
 #. :src: scripts/startup/bl_ui/space_view3d.py:3303
 msgctxt "Operator"
 msgid "Clear Sharp from Vertices"
-msgstr "为顶点清除锐边标记"
+msgstr "为顶点清除锐边缘标记"
 
 #. :src: scripts/startup/bl_ui/space_view3d.py:3359
 msgctxt "Operator"
@@ -111131,7 +111126,7 @@ msgstr "面角度"
 
 #. :src: scripts/startup/bl_ui/space_view3d.py:5151
 msgid "Edge Marks"
-msgstr "边标记"
+msgstr "边缘标记"
 
 #. :src: scripts/startup/bl_ui/space_view3d.py:5278
 msgid ""
@@ -111802,7 +111797,7 @@ msgstr "无目标对象"
 
 #. :src: scripts/startup/bl_ui/space_view3d.py:4727
 msgid "Specular Lighting"
-msgstr "高光光照"
+msgstr "高光光源"
 
 #. :src: scripts/startup/bl_ui/space_view3d.py:5479
 msgid "No object selected, using cursor"
@@ -111820,7 +111815,7 @@ msgstr "从所有组中移除"
 
 #. :src: scripts/startup/bl_ui/space_view3d.py:4559
 msgid "Disable Studio Light Edit"
-msgstr "禁用工作室灯光编辑"
+msgstr "禁用工作室光源编辑"
 
 #. :src: scripts/startup/bl_ui/space_view3d.py:493
 msgctxt "Operator"
@@ -114756,7 +114751,7 @@ msgstr "浏览要关联的晶格数据"
 
 #. :src: source/blender/editors/interface/interface_templates.c:546
 msgid "Browse Light Data to be linked"
-msgstr "浏览要关联的灯光数据"
+msgstr "浏览要关联的光源数据"
 
 #. :src: source/blender/editors/interface/interface_templates.c:547
 msgid "Browse Camera Data to be linked"
@@ -114832,7 +114827,7 @@ msgstr "浏览要关联的工作空间"
 
 #. :src: source/blender/editors/interface/interface_templates.c:565
 msgid "Browse LightProbe to be linked"
-msgstr "浏览要关联的光照探头数据"
+msgstr "浏览要关联的光源探头数据"
 
 #. :src: source/blender/editors/interface/interface_templates.c:568
 msgid "Browse ID data to be linked"
@@ -115446,7 +115441,7 @@ msgstr "反射立方体"
 #. :src: source/blender/editors/object/object_add.c:483
 msgctxt "Light"
 msgid "LightProbe"
-msgstr "光照探头"
+msgstr "光源探头"
 
 #. :src: source/blender/editors/object/object_add.c:578
 msgctxt "Object"
@@ -115561,7 +115556,7 @@ msgid ""
 "Combined bake pass Ambient Occlusion contribution requires an enabled light "
 "pass (bake the Ambient Occlusion pass type instead)"
 msgstr ""
-"合成烘培传递环境光遮蔽贡献需要一个启用的灯光传递 (替代烘培环境光遮蔽传递类型)"
+"合成烘培传递环境光遮蔽贡献需要一个启用的光源传递 (替代烘培环境光遮蔽传递类型)"
 
 #. :src: source/blender/editors/object/object_bake_api.c:462
 #. :src: source/blender/editors/object/object_bake_api.c:470
@@ -116049,7 +116044,7 @@ msgstr ""
 
 #. :src: source/blender/editors/object/object_select.c:1059
 msgid "Active object must be a light"
-msgstr "活动物体移动是一个灯光"
+msgstr "活动物体移动是一个光源"
 
 #. :src: source/blender/editors/object/object_shader_fx.c:77
 #, fuzzy
@@ -116500,7 +116495,7 @@ msgstr "发股: %d "
 
 #. :src: source/blender/editors/render/render_internal.c:418
 msgid "Li:%d "
-msgstr "灯光: %d "
+msgstr "光源: %d "
 
 #. :src: source/blender/editors/render/render_internal.c:421
 msgid "| Mem:%.2fM (%.2fM, Peak %.2fM) "
@@ -120025,15 +120020,15 @@ msgstr "约束 '%s' 未在姿态骨骼 '%s' 中找到"
 #. :src: source/blender/makesrna/intern/rna_pose_api.c:58
 #. :src: source/blender/makesrna/intern/rna_pose_api.c:84
 msgid "Bone '%s' is not a B-Bone!"
-msgstr "骨骼 '%s' 不是一条样条骨!"
+msgstr "骨骼 '%s' 不是一条弯管骨骼!"
 
 #. :src: source/blender/makesrna/intern/rna_pose_api.c:62
 msgid "Bone '%s' has out of date B-Bone segment data!"
-msgstr "骨骼 '%s' 有过期的样条线骨骼分段数据！"
+msgstr "骨骼 '%s' 有过期的弯管骨骼分段数据！"
 
 #. :src: source/blender/makesrna/intern/rna_pose_api.c:66
 msgid "Invalid index %d for B-Bone segments of '%s'!"
-msgstr "'%s' 样条线骨骼分段的无效编号 %d!"
+msgstr "'%s' 弯管骨骼分段的无效编号 %d!"
 
 #. :src: source/blender/makesrna/intern/rna_render.c:310
 msgid "Registering render engine class: '%s' is too long, maximum length is %d"
@@ -121047,11 +121042,11 @@ msgstr "| 时间:%s | "
 
 #. :src: source/blender/render/intern/source/pipeline.c:178
 msgid "Sce: %s Ve:%d Fa:%d Ha:%d La:%d"
-msgstr "场景名: %s 顶点:%d 面:%d 光晕点:%d 灯光:%d"
+msgstr "场景名: %s 顶点:%d 面:%d 光晕点:%d 光源:%d"
 
 #. :src: source/blender/render/intern/source/pipeline.c:181
 msgid "Sce: %s Ve:%d Fa:%d La:%d"
-msgstr "场景名: %s 顶点: %d 面: %d 灯光: %d"
+msgstr "场景名: %s 顶点: %d 面: %d 光源: %d"
 
 #. :src: source/blender/render/intern/source/pipeline.c:760
 msgid "Image too small"
