@@ -92086,7 +92086,7 @@ msgstr "指定线条宽度 (以像素为单位)"
 msgid ""
 "Unit line thickness is scaled by the proportion of the present vertical "
 "image resolution to 480 pixels"
-msgstr "单位线条宽度按图像的垂直分辨率进行成比缩放, 最大为 480 像\v素"
+msgstr "单位线条宽度按图像的垂直分辨率进行成比缩放, 最大为 480 像素"
 
 #. :src: bpy.types.RenderSettings.motion_blur_shutter
 #. :src: bpy.types.SceneEEVEE.motion_blur_shutter
