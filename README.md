@@ -1,9 +1,17 @@
-# 本项目说明
+# 本项目声明
 
 * 个人兴趣使然的项目
 * 随心情补充官方汉化的缺失和疏漏
 * 不追求翻译进度和准确率
-* 主要在 Google 翻译的基础上润色
+* 主要在 Google / Microsoft 翻译的基础上润色
+
+## 手动替换官方语言包
+
+* 下载 [语言文件](https://github.com/millionart/Blender_Chinese_localization_Unofficial/raw/master/zh_CN/zh_CN.mo)
+* 改名为 `blender.mo`
+* 替换 `Blender\2.80\datafiles\locale\zh_CN\LC_MESSAGES` 同名文件
+
+注意 **建议隔一段时间进行一次更新**
 
 ----
 
