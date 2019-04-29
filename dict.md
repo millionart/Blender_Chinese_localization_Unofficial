@@ -8,25 +8,39 @@
 
 对照表目前并不完善，有待后续持添加与完善。
 
+特别说明
+
+* 括号 `(` `)` 表示专有名词必须包含，使用半角
+* 斜杠 `/` 表示可选
+* 横杠 `-` 表示专有名词不翻译
+* 中英文混排规范请尽量遵照[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
+
 原文|译文|备注
 ----|----|----
 A |
-Alpha|Alpha|参考自 [[1]](https://zh.wikipedia.org/zh-hans/%E9%98%BF%E5%B0%94%E6%B3%95%E9%80%9A%E9%81%93)
+Alpha|-|参考自 [[1]](https://zh.wikipedia.org/zh-hans/%E9%98%BF%E5%B0%94%E6%B3%95%E9%80%9A%E9%81%93)
+Annotation|标注|
 B |
+B-Spline(s)|基样条|[[1]](https://zh.wikipedia.org/wiki/B%E6%A0%B7%E6%9D%A1)
 B-bone(s)|弯管骨骼|[Bendy Bones](https://forums.autodesk.com/t5/3ds-max-ideas/bendy-bones-for-3dsmax/idi-p/7593357)
 B-frames|双向预测帧 (B-frames)|bi predictive-Frame
-Blend In|混入
-Blend Out|混出
+Blend In|混入|
+Blend Out|混出|
+Brush|笔刷|
 C |
+CPU|-|中央处理器缩写
+CUDA|统一计算设备|Compute Unified Device Architecture
 Cap(s)|端点|参考自 Photoshop
-CPU|CPU|中央处理器缩写
-CUDA|CUDA|NVIDIA 推出的所谓"统一计算设备架构"
-Cycles|Cycles|渲染引擎
+Cavity|缝隙|[[1]](https://zhuanlan.zhihu.com/p/27339998)
+Convex Hull|凸包|[[1]](https://zh.wikipedia.org/zh/%E5%87%B8%E5%8C%85)
+Cryptomatte|-|[[1]](https://github.com/Psyop/Cryptomatte)
+Cycles|-|渲染引擎
 D |
 Distance|距离|
+Dopesheet|动画摄影表
 E |
 Edge mark(s)|边缘标记|
-Eevee|Eevee|渲染引擎
+Eevee|-|渲染引擎
 Envelopes|封套|
 F |
 F-Curve|函数曲线|Function curve?
@@ -37,8 +51,10 @@ Feature edge|形体边缘|参考自 [[1]](http://dict.cn/feature%20edge)
 Freestyle|描边 (Freestyle)|描边引擎
 G |
 GOP|图片组 (GOP)|Group of Pictures
-GPU|GPU|图形处理器缩写
+GPU|-|图形处理器缩写
+Ghost(s)|残影|
 Gizmo(s)|小部件|
+Grease Pencil|蜡笔|
 H |
 I |
 Image|图像|
@@ -52,7 +68,10 @@ M |
 Mapping|映射|
 Map|贴图|
 Material|材质|
+Matcap|-|
 N |
+NLA|非线性动画|Non-Linear Animation
+NURBS|-|[Non-Uniform Rational B-Splines](https://zh.wikipedia.org/wiki/%E9%9D%9E%E5%9D%87%E5%8C%80%E6%9C%89%E7%90%86B%E6%A0%B7%E6%9D%A1)
 O |
 Object|对象|
 P |
@@ -60,11 +79,18 @@ Proxy|代用|
 Q |
 R |
 S |
+AO|环境光遮蔽 (AO)|Ambient Occlusion
+SSAO|屏幕空间环境光遮蔽 (SSAO)|Screen-Space Ambient Occlusion
 Selected / selection|已选中|对应未选中
+ShaderFX||基于结点界面创建实时着色器的编辑工具
 Shape|形态|
+Side|面 / 侧面|
+Snap|吸附|
 Spacing|间距|
+Strip|片段|
 Stroke(s)|笔画|
 T |
+Trim|裁剪|
 Texture|纹理|
 U |
 V |
