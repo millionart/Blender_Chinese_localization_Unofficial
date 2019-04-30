@@ -11,7 +11,11 @@
 * 改名为 `blender.mo`
 * 替换 `Blender\2.80\datafiles\locale\zh_CN\LC_MESSAGES` 同名文件
 
-注意 **建议隔一段时间进行一次更新**
+    注意 **建议隔一段时间进行一次更新**
+
+## 想要参与翻译吗？
+
+请阅读[简单的参与指南](./HelpTranslate.md)
 
 ----
 
