@@ -18,6 +18,7 @@
 原文|译文|备注
 ----|----|----
 A |
+AO|环境光遮蔽 (AO)|Ambient Occlusion
 Alpha|-|参考自 [[1]](https://zh.wikipedia.org/zh-hans/%E9%98%BF%E5%B0%94%E6%B3%95%E9%80%9A%E9%81%93)
 Annotation|标注|
 B |
@@ -32,6 +33,7 @@ CPU|-|中央处理器缩写
 CUDA|统一计算设备|Compute Unified Device Architecture
 Cap(s)|端点|参考自 Photoshop
 Cavity|缝隙|[[1]](https://zhuanlan.zhihu.com/p/27339998)
+Color stop|色标|渐变的起止颜色
 Convex Hull|凸包|[[1]](https://zh.wikipedia.org/zh/%E5%87%B8%E5%8C%85)
 Cryptomatte|-|[[1]](https://github.com/Psyop/Cryptomatte)
 Cycles|-|渲染引擎
@@ -39,7 +41,7 @@ D |
 Distance|距离|
 Dopesheet|动画摄影表
 E |
-Edge mark(s)|边缘标记|
+Edge mark(s)|边沿标记|
 Eevee|-|渲染引擎
 Envelopes|封套|
 F |
@@ -56,6 +58,7 @@ Ghost(s)|残影|
 Gizmo(s)|小部件|
 Grease Pencil|蜡笔|
 H |
+Handle|控柄|骨骼及曲线的控制点
 I |
 Image|图像|
 J |
@@ -67,8 +70,8 @@ Lookdev|外观开发|参考自 [[1]](https://www.zhihu.com/question/48366815) [[
 M |
 Mapping|映射|
 Map|贴图|
-Material|材质|
 Matcap|-|
+Material|材质|
 N |
 NLA|非线性动画|Non-Linear Animation
 NURBS|-|[Non-Uniform Rational B-Splines](https://zh.wikipedia.org/wiki/%E9%9D%9E%E5%9D%87%E5%8C%80%E6%9C%89%E7%90%86B%E6%A0%B7%E6%9D%A1)
@@ -79,19 +82,19 @@ Proxy|代用|
 Q |
 R |
 S |
-AO|环境光遮蔽 (AO)|Ambient Occlusion
 SSAO|屏幕空间环境光遮蔽 (SSAO)|Screen-Space Ambient Occlusion
 Selected / selection|已选中|对应未选中
 ShaderFX||基于结点界面创建实时着色器的编辑工具
 Shape|形态|
+Sharp|尖锐|
 Side|面 / 侧面|
 Snap|吸附|
 Spacing|间距|
 Strip|片段|
 Stroke(s)|笔画|
 T |
-Trim|裁剪|
 Texture|纹理|
+Trim|裁剪|
 U |
 V |
 W |
