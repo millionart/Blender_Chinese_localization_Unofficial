@@ -41,7 +41,7 @@ D |
 Distance|距离|
 Dopesheet|动画摄影表
 E |
-Edge mark(s)|边沿标记|
+Edge|边沿|
 Eevee|-|渲染引擎
 Envelopes|封套|
 F |
@@ -83,7 +83,8 @@ Q |
 R |
 S |
 SSAO|屏幕空间环境光遮蔽 (SSAO)|Screen-Space Ambient Occlusion
-Selected / selection|已选中|对应未选中
+Selected|已选中|对应未选中
+Selection|已选中项
 ShaderFX||基于结点界面创建实时着色器的编辑工具
 Shape|形态|
 Sharp|尖锐|
