@@ -58,7 +58,7 @@ Ghost(s)|残影|
 Gizmo(s)|小部件|
 Grease Pencil|蜡笔|
 H |
-Handle|控柄|骨骼及曲线的控制点
+Handle|控制柄|骨骼及曲线的控制点
 I |
 Image|图像|
 J |
