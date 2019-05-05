@@ -21,6 +21,7 @@ A |
 AO|环境光遮蔽 (AO)|Ambient Occlusion
 Alpha|-|参考自 [[1]](https://zh.wikipedia.org/zh-hans/%E9%98%BF%E5%B0%94%E6%B3%95%E9%80%9A%E9%81%93)
 Annotation|标注|
+Area|范围
 B |
 B-Spline(s)|基样条|[[1]](https://zh.wikipedia.org/wiki/B%E6%A0%B7%E6%9D%A1)
 B-bone(s)|弯管骨骼|[Bendy Bones](https://forums.autodesk.com/t5/3ds-max-ideas/bendy-bones-for-3dsmax/idi-p/7593357)
@@ -44,6 +45,7 @@ E |
 Edge|边沿|
 Eevee|-|渲染引擎
 Envelopes|封套|
+Expected|需要|
 F |
 F-Curve|函数曲线|Function curve?
 Fade in|淡入|
@@ -71,6 +73,7 @@ M |
 Mapping|映射|
 Map|贴图|
 Matcap|-|
+Mask|蒙版|
 Material|材质|
 Musgrave|马斯格雷夫|[[1]](https://en.wikipedia.org/wiki/Ken_Musgrave)
 N |
@@ -82,18 +85,20 @@ P |
 Proxy|代用|
 Q |
 R |
+Region|区域
 S |
 SSAO|屏幕空间环境光遮蔽 (SSAO)|Screen-Space Ambient Occlusion
 Selected|已选中|对应未选中
 Selection|选中项
 ShaderFX||基于结点界面创建实时着色器的编辑工具
-Shape|形态|
 Shape Key(s)|形变关键帧
+Shape|形态|
 Sharp|尖锐|
 Side|面 / 侧面|
 Snap|吸附|
 Spacing|间距|
 Strip|片段|
+Sepia|老照片|[[1]](https://www.getpaint.net/doc/latest/AdjustmentsMenu.html) [[2]](https://www.cnblogs.com/Imageshop/p/3460951.html)
 Stroke(s)|笔画|
 T |
 Texture|纹理|
