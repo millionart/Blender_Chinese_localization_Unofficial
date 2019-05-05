@@ -72,6 +72,7 @@ Mapping|映射|
 Map|贴图|
 Matcap|-|
 Material|材质|
+Musgrave|马斯格雷夫|[[1]](https://en.wikipedia.org/wiki/Ken_Musgrave)
 N |
 NLA|非线性动画|Non-Linear Animation
 NURBS|-|[Non-Uniform Rational B-Splines](https://zh.wikipedia.org/wiki/%E9%9D%9E%E5%9D%87%E5%8C%80%E6%9C%89%E7%90%86B%E6%A0%B7%E6%9D%A1)
@@ -84,9 +85,10 @@ R |
 S |
 SSAO|屏幕空间环境光遮蔽 (SSAO)|Screen-Space Ambient Occlusion
 Selected|已选中|对应未选中
-Selection|已选中项
+Selection|选中项
 ShaderFX||基于结点界面创建实时着色器的编辑工具
 Shape|形态|
+Shape Key(s)|形变关键帧
 Sharp|尖锐|
 Side|面 / 侧面|
 Snap|吸附|
@@ -98,6 +100,7 @@ Texture|纹理|
 Trim|裁剪|
 U |
 V |
+Voronoi|泰森多边形|[[1]](https://zh.wikipedia.org/zh-hans/%E6%B2%83%E7%BD%97%E8%AF%BA%E4%BC%8A%E5%9B%BE)
 W |
 Widget|小工具
 Workspace|工作区|
