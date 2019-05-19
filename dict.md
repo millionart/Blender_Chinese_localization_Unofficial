@@ -42,7 +42,7 @@ D |
 Distance|距离|
 Dopesheet|动画摄影表
 E |
-Edge|边沿|
+Edge|边线|
 Eevee|-|渲染引擎
 Envelopes|封套|
 Expected|需要|
@@ -79,6 +79,9 @@ Musgrave|马斯格雷夫|[[1]](https://en.wikipedia.org/wiki/Ken_Musgrave)
 N |
 NLA|非线性动画|Non-Linear Animation
 NURBS|-|[Non-Uniform Rational B-Splines](https://zh.wikipedia.org/wiki/%E9%9D%9E%E5%9D%87%E5%8C%80%E6%9C%89%E7%90%86B%E6%A0%B7%E6%9D%A1)
+Normalize|归一化
+Normals|法线向量|
+Normal|法线|
 O |
 Object|对象|
 P |
