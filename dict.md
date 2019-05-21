@@ -72,7 +72,7 @@ Lookdev|外观开发|参考自 [[1]](https://www.zhihu.com/question/48366815) [[
 M |
 Mapping|映射|
 Map|贴图|
-Matcap|-|
+Matcap|材质捕获|
 Mask|蒙版|
 Material|材质|
 Musgrave|马斯格雷夫|[[1]](https://en.wikipedia.org/wiki/Ken_Musgrave)
