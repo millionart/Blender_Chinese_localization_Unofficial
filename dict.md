@@ -72,9 +72,10 @@ Lookdev|外观开发|参考自 [[1]](https://www.zhihu.com/question/48366815) [[
 M |
 Mapping|映射|
 Map|贴图|
-Matcap|材质捕获|
 Mask|蒙版|
+Matcap|材质捕获|
 Material|材质|
+Metaball(s)|变形球|[[1]](http://help.autodesk.com/view/3DSMAX/2020/CHS/?guid=GUID-DD1BCBD1-634C-4CB4-A3B6-EE8AC261DFBA) [[2]](https://zh.wikipedia.org/wiki/%E5%85%83%E7%90%83)
 Musgrave|马斯格雷夫|[[1]](https://en.wikipedia.org/wiki/Ken_Musgrave)
 N |
 NLA|非线性动画|Non-Linear Animation
@@ -93,6 +94,7 @@ S |
 SSAO|屏幕空间环境光遮蔽 (SSAO)|Screen-Space Ambient Occlusion
 Selected|已选中|对应未选中
 Selection|选中项
+Sepia|老照片|[[1]](https://www.getpaint.net/doc/latest/AdjustmentsMenu.html) [[2]](https://www.cnblogs.com/Imageshop/p/3460951.html)
 ShaderFX||基于结点界面创建实时着色器的编辑工具
 Shape Key(s)|形变关键帧
 Shape|形态|
@@ -100,14 +102,16 @@ Sharp|尖锐|
 Side|面 / 侧面|
 Snap|吸附|
 Spacing|间距|
+Stiff|僵硬
 Strip|片段|
-Sepia|老照片|[[1]](https://www.getpaint.net/doc/latest/AdjustmentsMenu.html) [[2]](https://www.cnblogs.com/Imageshop/p/3460951.html)
 Stroke(s)|笔画|
 T |
 Texture|纹理|
+Tracer|拖尾|
 Trim|裁剪|
 U |
 V |
+Viscosity|粘稠度
 Voronoi|泰森多边形|[[1]](https://zh.wikipedia.org/zh-hans/%E6%B2%83%E7%BD%97%E8%AF%BA%E4%BC%8A%E5%9B%BE)
 W |
 Widget|小工具
