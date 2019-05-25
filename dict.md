@@ -22,6 +22,7 @@ AO|环境光遮蔽 (AO)|Ambient Occlusion
 Alpha|-|参考自 [[1]](https://zh.wikipedia.org/zh-hans/%E9%98%BF%E5%B0%94%E6%B3%95%E9%80%9A%E9%81%93)
 Annotation|标注|
 Area|范围
+Artifacts|失真
 B |
 B-Spline(s)|基样条|[[1]](https://zh.wikipedia.org/wiki/B%E6%A0%B7%E6%9D%A1)
 B-bone(s)|弯管骨骼|[Bendy Bones](https://forums.autodesk.com/t5/3ds-max-ideas/bendy-bones-for-3dsmax/idi-p/7593357)
@@ -41,6 +42,8 @@ Cycles|-|渲染引擎
 D |
 Distance|距离|
 Dopesheet|动画摄影表
+Driver|驱动程序
+Deform|形变
 E |
 Edge|边线|
 Eevee|-|渲染引擎
@@ -96,7 +99,7 @@ Selected|已选中|对应未选中
 Selection|选中项
 Sepia|老照片|[[1]](https://www.getpaint.net/doc/latest/AdjustmentsMenu.html) [[2]](https://www.cnblogs.com/Imageshop/p/3460951.html)
 ShaderFX||基于结点界面创建实时着色器的编辑工具
-Shape Key(s)|形变关键帧
+Shape Key(s)|形态关键帧
 Shape|形态|
 Sharp|尖锐|
 Side|面 / 侧面|
@@ -109,6 +112,7 @@ T |
 Texture|纹理|
 Tracer|拖尾|
 Trim|裁剪|
+Transform|变换
 U |
 V |
 Viscosity|粘稠度
